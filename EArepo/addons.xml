@@ -2,7 +2,7 @@
 <addons>
 	<addon id="plugin.program.EAwizard"                                                                                                                                    
 	   name=" [COLOR tan][B]EAwizard[/B][/COLOR]"                                                 
-	   version="2.6"                                                                                                                                        
+	   version="2.7"                                                                                                                                        
 	   provider-name="EA">
   <requires>
     <import addon="xbmc.python" version="2.1.0"/>
@@ -20,7 +20,7 @@
 </addon>
 <addon id="plugin.program.EAforall"                                                                                                                                    
 	   name=" [COLOR tan][B]EAforall[/B][/COLOR]"                                                 
-	   version="2.1"                                                                                                                                        
+	   version="2.2"                                                                                                                                        
 	   provider-name="EA">
   <requires>
     <import addon="xbmc.python" version="2.1.0"/>
