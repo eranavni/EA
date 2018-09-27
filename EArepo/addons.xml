@@ -20,7 +20,7 @@
 </addon>
 <addon id="plugin.program.EAforall"                                                                                                                                    
 	   name=" [COLOR tan][B]EAforall[/B][/COLOR]"                                                 
-	   version="2.2"                                                                                                                                        
+	   version="2.3"                                                                                                                                        
 	   provider-name="EA">
   <requires>
     <import addon="xbmc.python" version="2.1.0"/>
