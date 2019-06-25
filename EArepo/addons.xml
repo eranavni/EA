@@ -2,7 +2,7 @@
 <addons>
 <addon id="plugin.program.EA4all"                                                                                                                                    
 	   name=" [COLOR tan][B]EA4all[/B][/COLOR]"                                                 
-	   version="2.8"                                                                                                                                        
+	   version="2.9"                                                                                                                                        
 	   provider-name="">
   <requires>
     <import addon="xbmc.python" version="2.1.0"/>
@@ -17,5 +17,5 @@
     <description lang="en">Credit To Kodi Anonymous</description>
     <platform>all</platform>
   </extension>
-</addon>	
+</addon>
 </addons>
