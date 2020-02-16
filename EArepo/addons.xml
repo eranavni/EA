@@ -2,7 +2,7 @@
 <addons>
 <addon id="plugin.program.EA4all"                                                                                                                                    
 	   name=" [COLOR tan][B]EA4all[/B][/COLOR]"                                                 
-	   version="3.5"                                                                                                                                        
+	   version="3.7"                                                                                                                                        
 	   provider-name="">
   <requires>
     <import addon="xbmc.python" version="2.1.0"/>
