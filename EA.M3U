@@ -1,0 +1,1176 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="Channel 9" tvg-name="IL: Channel 9 HD" tvg-logo="https://www.yes.co.il/contents/PublishingImages/logo_new/more/9.png" group-title="ערוצי בידור ופנאי",IL: Channel 9 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://total.live:80/EA/s5300669/34
+
+#EXTINF:-1 tvg-id="Kan 11" tvg-name="IL: Kan 11 HD" tvg-logo="https://www.yes.co.il/contents/PublishingImages/logo_new/General/kan_logo_black.jpg" group-title="ערוצי עידן פלוס",IL: Kan 11 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://total.live:80/EA/s5300669/10
+
+#EXTINF:-1 tvg-id="Kan 11" tvg-name="IL: Kan 11 HD (Subs)" tvg-logo="https://www.yes.co.il/contents/PublishingImages/logo_new/General/kan_logo_black.jpg" group-title="ערוצי עידן פלוס",IL: Kan 11 HD (Subs)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://total.live:80/EA/s5300669/5145
+
+#EXTINF:-1 tvg-id="" tvg-name="IL: News12" tvg-logo="" group-title="ערוצי עידן פלוס",IL: News12
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://total.live:80/EA/s5300669/1178
+
+#EXTINF:-1 tvg-id="keshet" tvg-name="IL: Keshet HD" tvg-logo="https://www.yes.co.il/contents/PublishingImages/logo_new/more/12keshet.png" group-title="ערוצי עידן פלוס",IL: Keshet HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://total.live:80/EA/s5300669/13
+
+#EXTINF:-1 tvg-id="keshet" tvg-name="IL: Keshet HD (Subs)" tvg-logo="https://www.yes.co.il/contents/PublishingImages/logo_new/more/12keshet.png" group-title="ערוצי עידן פלוס",IL: Keshet HD (Subs)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://total.live:80/EA/s5300669/3505
+
+#EXTINF:-1 tvg-id="Reshet 13" tvg-name="IL: Reshet HD" tvg-logo="https://www.yes.co.il/contents/PublishingImages/logo_new/more/13reshet.png" group-title="ערוצי עידן פלוס",IL: Reshet HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://total.live:80/EA/s5300669/14
+
+#EXTINF:-1 tvg-id="Reshet 13" tvg-name="IL: Reshet HD (Subs)" tvg-logo="https://www.yes.co.il/contents/PublishingImages/logo_new/more/13reshet.png" group-title="ערוצי עידן פלוס",IL: Reshet HD (Subs)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://total.live:80/EA/s5300669/5146
+
+#EXTINF:-1 tvg-id="channel 20" tvg-name="IL: Arutz 20" tvg-logo="https://www.yes.co.il/contents/PublishingImages/logo_new/General/Arutz20.jpg" group-title="ערוצי עידן פלוס",IL: Arutz 20
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://total.live:80/EA/s5300669/38
+
+#EXTINF:-1 tvg-id="Shopping" tvg-name="IL: Shopping" tvg-logo="https://www.yes.co.il/contents/PublishingImages/logo_new/Home_channel_Additional/shopping.png" group-title="ערוצי בידור ופנאי",IL: Shopping
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://total.live:80/EA/s5300669/41
+
+#EXTINF:-1 tvg-id="edu" tvg-name="IL: Kan Edu" tvg-logo="https://www.yes.co.il/contents/PublishingImages/logo_new/Home_channel_Additional/logos_118x104_can_hinuhit.jpg" group-title="ערוצי עידן פלוס",IL: Kan Edu
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://total.live:80/EA/s5300669/11
+
+#EXTINF:-1 tvg-id="Music 24" tvg-name="IL: Music 24" tvg-logo="https://www.yes.co.il/contents/PublishingImages/logo_new/Home_channel_Additional/24.png" group-title="ערוצי עידן פלוס",IL: Music 24
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://total.live:80/EA/s5300669/37
+
+#EXTINF:-1 tvg-id="MTV Music" tvg-name="IL: MTV" tvg-logo="https://www.yes.co.il/contents/PublishingImages/logo_new/Home_channel_Additional/MTV_Music_white.png" group-title="ערוצי המוזיקה",IL: MTV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://total.live:80/EA/s5300669/88
+
+#EXTINF:-1 tvg-id="Yam Tichoni" tvg-name="IL: Yam Tichoni SD" tvg-logo="https://www.yes.co.il/contents/PublishingImages/logo_new/Premium/ActionHD.png" group-title="ערוצי הסדרות",IL: Yam Tichoni SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://total.live:80/EA/s5300669/87
+
+#EXTINF:-1 tvg-id="Greekmusic" tvg-name="IL: Hagiga Mizrahit HD" tvg-logo="https://www.yes.co.il/contents/PublishingImages/logo_new/General/greek_channel_blacklogo.png" group-title="ערוצי הסדרות",IL: Hagiga Mizrahit HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://total.live:80/EA/s5300669/958
+
+#EXTINF:-1 tvg-id="Turkish Dramas" tvg-name="IL: Turkish Dramas HD (Cell)" tvg-logo="https://www.yes.co.il/SiteCollectionImages/2019/channel/logo/135898-4_logos_luah_shidurim_104x118pix_165.png" group-title="ערוצי הסדרות",IL: Turkish Dramas HD (Cell)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://total.live:80/EA/s5300669/979
+
+#EXTINF:-1 tvg-id="Turkish Dramas SD" tvg-name="IL: Turkish Dramas SD (Hot)" tvg-logo="https://www.yes.co.il/SiteCollectionImages/2019/channel/logo/135898-4_logos_luah_shidurim_104x118pix_165.png" group-title="ערוצי הסדרות",IL: Turkish Dramas SD (Hot)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://total.live:80/EA/s5300669/74
+
+#EXTINF:-1 tvg-id="Viva" tvg-name="IL: Viva" tvg-logo="https://www.yes.co.il/contents/PublishingImages/logo_new/more/Viva.png" group-title="ערוצי הסדרות",IL: Viva
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://total.live:80/EA/s5300669/22
+
+#EXTINF:-1 tvg-id="Viva Plus" tvg-name="IL: Viva Plus" tvg-logo="https://www.yes.co.il/contents/PublishingImages/logo_new/Premium/Viva.png" group-title="ערוצי הסדרות",IL: Viva Plus
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://total.live:80/EA/s5300669/23
+
+#EXTINF:-1 tvg-id="E" tvg-name="IL: E!" tvg-logo="https://www.yes.co.il/contents/PublishingImages/logo_new/Premium/E.png" group-title="ערוצי בידור ופנאי",IL: E!
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://total.live:80/EA/s5300669/8
+
+#EXTINF:-1 tvg-id="CBS Reality" tvg-name="IL: CBS Reality" tvg-logo="https://www.yes.co.il/contents/PublishingImages/logo_new/General/CBS_reality.png" group-title="ערוצי בידור ופנאי",IL: CBS Reality
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://total.live:80/EA/s5300669/257
+
+#EXTINF:-1 tvg-id="HOT Bombay" tvg-name="IL: HOT Bombay" tvg-logo="https://image.ibb.co/grF5Fn/hotbombay.png" group-title="ערוצי הסדרות",IL: HOT Bombay
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://total.live:80/EA/s5300669/86
+
+#EXTINF:-1 tvg-id="HOT Bollywood" tvg-name="IL: HOT Bollywood" tvg-logo="https://www.hot.net.il/UploadedImages//05_2012/bollywood-510.jpg" group-title="ערוצי הסדרות",IL: HOT Bollywood
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://total.live:80/EA/s5300669/588
+
+#EXTINF:-1 tvg-id="HOT3" tvg-name="IL: HOT3" tvg-logo="https://image.ibb.co/dNLu87/HOT3HD.png" group-title="ערוצי הסדרות",IL: HOT3
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://total.live:80/EA/s5300669/77
+
+#EXTINF:-1 tvg-id="HOT8" tvg-name="IL: HOT8" tvg-logo="https://image.ibb.co/fDRZ87/HOTChannel8.png" group-title="ערוצי הטבע והמדע",IL: HOT8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://total.live:80/EA/s5300669/589
+
+#EXTINF:-1 tvg-id="Hot Zone" tvg-name="IL: HOT Zone" tvg-logo="https://image.ibb.co/cs8svn/HOTZONEHD.png" group-title="ערוצי הסדרות",IL: HOT Zone
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://total.live:80/EA/s5300669/72
+
+#EXTINF:-1 tvg-id="Hot HBO" tvg-name="IL: HBO" tvg-logo="https://image.ibb.co/j3gCvn/HOTHBOHD.png" group-title="ערוצי הסדרות",IL: HBO
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://total.live:80/EA/s5300669/5091
+
+#EXTINF:-1 tvg-id="Humor" tvg-name="IL: Humor Channel" tvg-logo="https://www.yes.co.il/SiteCollectionImages/2019/channel/logo/logo_hummor.jpg" group-title="ערוצי בידור ופנאי",IL: Humor Channel
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://total.live:80/EA/s5300669/590
+
+#EXTINF:-1 tvg-id="HOT Comedy Central" tvg-name="IL: Hot Comedy Central" tvg-logo="https://www.hot.net.il/UploadedImages/09_2018/H6911353_logos_246x2044_58.jpg" group-title="ערוצי הסדרות",IL: Hot Comedy Central
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://total.live:80/EA/s5300669/587
+
+#EXTINF:-1 tvg-id="HOT Entertainment" tvg-name="IL: HOT Entertainment" tvg-logo="https://image.ibb.co/erxVgS/hotentertainment.png" group-title="ערוצי בידור ופנאי",IL: HOT Entertainment
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://total.live:80/EA/s5300669/85
+
+#EXTINF:-1 tvg-id="HOT Gold" tvg-name="IL: HOT Cinema 1" tvg-logo="https://image.ibb.co/jzqi1S/HOTDRAMAHD.png" group-title="ערוצי הסרטים",IL: HOT Cinema 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://total.live:80/EA/s5300669/70
+
+#EXTINF:-1 tvg-id="HOT Action" tvg-name="IL: Hot Cinema 2" tvg-logo="https://image.ibb.co/gLZMo7/HOTACTIONHD.png" group-title="ערוצי הסרטים",IL: Hot Cinema 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://total.live:80/EA/s5300669/80
+
+#EXTINF:-1 tvg-id="HOT Fun" tvg-name="IL: HOT Cinema 3" tvg-logo="https://image.ibb.co/c5Fu87/HOTGOLDHD.png" group-title="ערוצי הסרטים",IL: HOT Cinema 3
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://total.live:80/EA/s5300669/81
+
+#EXTINF:-1 tvg-id="HOT Drama" tvg-name="IL: Hot Cinema 4" tvg-logo="https://image.ibb.co/gfWZ87/HOTFUNHD.png" group-title="ערוצי הסרטים",IL: Hot Cinema 4
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://total.live:80/EA/s5300669/69
+
+#EXTINF:-1 tvg-id="sport1HD" tvg-name="IL: Sport 1 HD" tvg-logo="https://www.yes.co.il/contents/PublishingImages/logo_new/Premium/sport1HD.png" group-title="ערוצי הספורט",IL: Sport 1 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://total.live:80/EA/s5300669/53
+
+#EXTINF:-1 tvg-id="sport2HD" tvg-name="IL: Sport 2 HD" tvg-logo="https://www.yes.co.il/contents/PublishingImages/logo_new/Premium/%D7%A1%D7%A4%D7%95%D7%A8%D7%982HD.PNG" group-title="ערוצי הספורט",IL: Sport 2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://total.live:80/EA/s5300669/54
+
+#EXTINF:-1 tvg-id="sport3HD" tvg-name="IL: Sport 3 HD" tvg-logo="https://www.yes.co.il/contents/PublishingImages/logo_new/Premium/sport_3.jpg" group-title="ערוצי הספורט",IL: Sport 3 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://total.live:80/EA/s5300669/55
+
+#EXTINF:-1 tvg-id="sport4HD" tvg-name="IL: Sport 4 HD" tvg-logo="https://www.yes.co.il/contents/PublishingImages/logo_new/Premium/sport_4.jpg" group-title="ערוצי הספורט",IL: Sport 4 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://total.live:80/EA/s5300669/56
+
+#EXTINF:-1 tvg-id="ONE" tvg-name="IL: ONE HD" tvg-logo="https://www.yes.co.il/SiteCollectionImages/Lists/channels/AllItems/one-logo.png" group-title="ערוצי הספורט",IL: ONE HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://total.live:80/EA/s5300669/62
+
+#EXTINF:-1 tvg-id="ONE2" tvg-name="IL: ONE 2 HD" tvg-logo="https://www.yes.co.il/contents/PublishingImages/logo_new/Premium/luah_shidurim_logo_118x104.png" group-title="ערוצי הספורט",IL: ONE 2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://total.live:80/EA/s5300669/63
+
+#EXTINF:-1 tvg-id="sport5HD" tvg-name="IL: Sport 5 HD" tvg-logo="https://www.yes.co.il/contents/PublishingImages/logo_new/Premium/5_Sport.png" group-title="ערוצי הספורט",IL: Sport 5 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://total.live:80/EA/s5300669/57
+
+#EXTINF:-1 tvg-id="5liveHD" tvg-name="IL: Sport 5 live HD" tvg-logo="https://www.yes.co.il/contents/PublishingImages/logo_new/Premium/liveHD.jpg" group-title="ערוצי הספורט",IL: Sport 5 live HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://total.live:80/EA/s5300669/60
+
+#EXTINF:-1 tvg-id="5PLUS" tvg-name="IL: Sport 5 plus HD" tvg-logo="https://www.yes.co.il/contents/PublishingImages/logo_new/General/5_Plus.png" group-title="ערוצי הספורט",IL: Sport 5 plus HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://total.live:80/EA/s5300669/58
+
+#EXTINF:-1 tvg-id="sport5Stars" tvg-name="IL: Sport 5STARS HD" tvg-logo="https://www.yes.co.il/contents/PublishingImages/logo_new/General/logos_118x104_5stars.jpg" group-title="ערוצי הספורט",IL: Sport 5STARS HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://total.live:80/EA/s5300669/61
+
+#EXTINF:-1 tvg-id="5GOLD" tvg-name="IL: Sport 5 Gold" tvg-logo="https://www.yes.co.il/contents/PublishingImages/logo_new/Premium/Gold.jpg" group-title="ערוצי הספורט",IL: Sport 5 Gold
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://total.live:80/EA/s5300669/59
+
+#EXTINF:-1 tvg-id="Eurosport HD" tvg-name="IL: Eurosport 1 HD" tvg-logo="https://cellcomtv.cellcom.co.il/globalassets/cellcomtv/channels/channels_with_color/web-new/197x197_0001_layer-comp-2.png" group-title="ערוצי הספורט",IL: Eurosport 1 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://total.live:80/EA/s5300669/5
+
+#EXTINF:-1 tvg-id="Eurosport 2 HD" tvg-name="IL: Eurosport 2 HD" tvg-logo="https://cellcomtv.cellcom.co.il/globalassets/cellcomtv/channels/channels_with_color/web-new/197x197_0000_layer-comp-1.png" group-title="ערוצי הספורט",IL: Eurosport 2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://total.live:80/EA/s5300669/6
+
+#EXTINF:-1 tvg-id="egoTotal" tvg-name="IL: Ego Total" tvg-logo="https://www.yes.co.il/contents/PublishingImages/logo_new/Premium/egoTotal.png" group-title="ערוצי הספורט",IL: Ego Total
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://total.live:80/EA/s5300669/82
+
+#EXTINF:-1 tvg-id="DIY" tvg-name="IL: DIY FHD" tvg-logo="https://www.yes.co.il/contents/PublishingImages/logo_new/General/logo_DIY_118x104pix.png" group-title="ערוצי בידור ופנאי",IL: DIY FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://total.live:80/EA/s5300669/592
+
+#EXTINF:-1 tvg-id="Home Plus" tvg-name="IL: Home Plus HD" tvg-logo="https://www.yes.co.il/contents/PublishingImages/logo_new/more/bayit.png" group-title="ערוצי בידור ופנאי",IL: Home Plus HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://total.live:80/EA/s5300669/7
+
+#EXTINF:-1 tvg-id="Health Channel" tvg-name="IL: Health Channel" tvg-logo="https://www.yes.co.il/contents/PublishingImages/logo_new/more/health.png" group-title="ערוצי בידור ופנאי",IL: Health Channel
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://total.live:80/EA/s5300669/84
+
+#EXTINF:-1 tvg-id="Good Life" tvg-name="IL: Good Life" tvg-logo="https://www.yes.co.il/contents/PublishingImages/logo_new/General/Lifestyle_White.png" group-title="ערוצי בידור ופנאי",IL: Good Life
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://total.live:80/EA/s5300669/68
+
+#EXTINF:-1 tvg-id="HistoryHD" tvg-name="IL: History HD" tvg-logo="https://www.yes.co.il/contents/PublishingImages/logo_new/General/history.jpg" group-title="ערוצי הטבע והמדע",IL: History HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://total.live:80/EA/s5300669/5269
+
+#EXTINF:-1 tvg-id="Discovery" tvg-name="IL: Discovery Channel HD" tvg-logo="https://www.yes.co.il/contents/PublishingImages/logo_new/General/discovery_sHD.png" group-title="ערוצי הטבע והמדע",IL: Discovery Channel HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://total.live:80/EA/s5300669/36
+
+#EXTINF:-1 tvg-id="Discovery Science" tvg-name="IL: Discovery Science" tvg-logo="https://www.yes.co.il/contents/PublishingImages/logo_new/Home_channel_Additional/Discovery-science-Channel.jpg" group-title="ערוצי הטבע והמדע",IL: Discovery Science
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://total.live:80/EA/s5300669/5277
+
+#EXTINF:-1 tvg-id="National Geographic HD" tvg-name="IL: National Geographic HD" tvg-logo="https://www.yes.co.il/contents/PublishingImages/logo_new/General/ngc_hd.jpg" group-title="ערוצי הטבע והמדע",IL: National Geographic HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://total.live:80/EA/s5300669/31
+
+#EXTINF:-1 tvg-id="Nat Geo Wild HD" tvg-name="IL: NatGeo Wild HD" tvg-logo="https://www.yes.co.il/contents/PublishingImages/logo_new/more/NGWILD.png" group-title="ערוצי הטבע והמדע",IL: NatGeo Wild HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://total.live:80/EA/s5300669/30
+
+#EXTINF:-1 tvg-id="Travel Channel IL" tvg-name="IL: Travel Channel" tvg-logo="https://cellcomtv.cellcom.co.il/globalassets/cellcomtv/channels/channels_with_color/web-new/197x197_0044_travel.png" group-title="ערוצי הטבע והמדע",IL: Travel Channel
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://total.live:80/EA/s5300669/73
+
+#EXTINF:-1 tvg-id="Foody" tvg-name="IL: Foody" tvg-logo="https://cellcomtv.cellcom.co.il/globalassets/cellcomtv/channels/channels_with_color/web-new/foody_v1_1_197x197.png" group-title="ערוצי בידור ופנאי",IL: Foody
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://total.live:80/EA/s5300669/35
+
+#EXTINF:-1 tvg-id="Food Channel" tvg-name="IL: Food Channel" tvg-logo="https://www.yes.co.il/contents/PublishingImages/logo_new/Premium/food_white.png" group-title="ערוצי בידור ופנאי",IL: Food Channel
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://total.live:80/EA/s5300669/83
+
+#EXTINF:-1 tvg-id="Food Network" tvg-name="IL: Food Network HD" tvg-logo="https://cellcomtv.cellcom.co.il/globalassets/cellcomtv/channels/channels_with_color/web-new/197x197_0046_food.png" group-title="ערוצי בידור ופנאי",IL: Food Network HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://total.live:80/EA/s5300669/33
+
+#EXTINF:-1 tvg-id="Baby" tvg-name="IL: Baby HD" tvg-logo="https://www.yes.co.il/contents/PublishingImages/logo_new/Premium/baby.png" group-title="ערוצי הילדים",IL: Baby HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://total.live:80/EA/s5300669/24
+ 
+#EXTINF:-1 tvg-id="Luli" tvg-name="IL: Luli" tvg-logo="https://www.hot.net.il/UploadedImages/06_2010/76.gif" group-title="ערוצי הילדים",IL: Luli
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://total.live:80/EA/s5300669/75
+
+#EXTINF:-1 tvg-id="Hop" tvg-name="IL: Hop" tvg-logo="https://www.yes.co.il/contents/PublishingImages/logo_new/General/Hop.png" group-title="ערוצי הילדים",IL: Hop
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://total.live:80/EA/s5300669/66
+
+#EXTINF:-1 tvg-id="HOP YALDUT" tvg-name="IL: Hop Yaldut" tvg-logo="https://www.yes.co.il/contents/PublishingImages/logo_new/Premium/slogen4.png" group-title="ערוצי הילדים",IL: Hop Yaldut
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://total.live:80/EA/s5300669/78
+
+#EXTINF:-1 tvg-id="Kids Channel" tvg-name="IL: Hot Kidz" tvg-logo="https://www.hot.net.il/UploadedImages/01_2018/logo_kidz_59X49_58.png" group-title="ערוצי הילדים",IL: Hot Kidz
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://total.live:80/EA/s5300669/76
+
+#EXTINF:-1 tvg-id="A Plus" tvg-name="IL: A Plus" tvg-logo="https://www.hot.net.il/UploadedImages//01_2018/logo_Aplus_510X287.png" group-title="ערוצי הילדים",IL: A Plus
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://total.live:80/EA/s5300669/4344
+
+#EXTINF:-1 tvg-id="Disney" tvg-name="IL: Disney Channel" tvg-logo="https://www.yes.co.il/SiteCollectionImages/Lists/channels/AllItems/logo-disney-118_104.png" group-title="ערוצי הילדים",IL: Disney Channel
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://total.live:80/EA/s5300669/29
+
+#EXTINF:-1 tvg-id="Disney Jr" tvg-name="IL: Disney Junior" tvg-logo="https://www.yes.co.il/contents/PublishingImages/logo_new/General/Disney_junior04.png" group-title="ערוצי הילדים",IL: Disney Junior
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://total.live:80/EA/s5300669/12
+
+#EXTINF:-1 tvg-id="JuniorChannel" tvg-name="IL: Junior (Cell)" tvg-logo="https://www.yes.co.il/contents/PublishingImages/logo_new/General/junior_new.png" group-title="ערוצי הילדים",IL: Junior (Cell)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://total.live:80/EA/s5300669/25
+
+#EXTINF:-1 tvg-id="Junior" tvg-name="IL: Junior (Hot)" tvg-logo="https://www.yes.co.il/contents/PublishingImages/logo_new/General/junior_new.png" group-title="ערוצי הילדים",IL: Junior (Hot)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://total.live:80/EA/s5300669/964
+
+#EXTINF:-1 tvg-id="Kids Channel" tvg-name="IL: Yeladim" tvg-logo="https://cellcomtv.cellcom.co.il/globalassets/cellcomtv/channels/channels_with_color/web-new/197x197_2.png" group-title="ערוצי הילדים",IL: Yeladim
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://total.live:80/EA/s5300669/28
+
+#EXTINF:-1 tvg-id="Logi" tvg-name="IL: Logi" tvg-logo="https://cellcomtv.cellcom.co.il/globalassets/cellcomtv/channels/channels_with_color/web-new/197x197_1.png" group-title="ערוצי הילדים",IL: Logi
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://total.live:80/EA/s5300669/27
+
+#EXTINF:-1 tvg-id="Hero" tvg-name="IL: Hero!" tvg-logo="https://cellcomtv.cellcom.co.il/globalassets/cellcomtv/channels/channels_with_color/web-new/hero-197x197.png" group-title="ערוצי הילדים",IL: Hero!
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://total.live:80/EA/s5300669/26
+
+#EXTINF:-1 tvg-id="Kids Stars" tvg-name="IL: Kids Stars" tvg-logo="https://www.yes.co.il/contents/PublishingImages/logo_new/General/stars_channel.png" group-title="ערוצי הילדים",IL: Kids Stars
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://total.live:80/EA/s5300669/5163
+
+#EXTINF:-1 tvg-id="Zoom" tvg-name="IL: Zoom" tvg-logo="https://www.yes.co.il/contents/PublishingImages/logo_new/more/zoom_red.jpg" group-title="ערוצי הילדים",IL: Zoom
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://total.live:80/EA/s5300669/71
+
+#EXTINF:-1 tvg-id="Nick Jr" tvg-name="IL: Nick Junior" tvg-logo="https://www.yes.co.il/contents/PublishingImages/logo_new/Premium/nick.jr.png" group-title="ערוצי הילדים",IL: Nick Junior
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://total.live:80/EA/s5300669/65
+
+#EXTINF:-1 tvg-id="Nickelodeon" tvg-name="IL: Nickelodeon" tvg-logo="https://www.yes.co.il/contents/PublishingImages/logo_new/General/nick.png" group-title="ערוצי הילדים",IL: Nickelodeon
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://total.live:80/EA/s5300669/89
+
+#EXTINF:-1 tvg-id="Teennick" tvg-name="IL: TeenNick" tvg-logo="https://www.yes.co.il/contents/PublishingImages/logo_new/General/Teen_nick_logo.jpg" group-title="ערוצי הילדים",IL: TeenNick
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://total.live:80/EA/s5300669/64
+
+#EXTINF:-1 tvg-id="mikan" tvg-name="IL: Mikan" tvg-logo="https://www.yes.co.il/contents/PublishingImages/logo_new/General/makan_logo_black.jpg" group-title="ערוצי עידן פלוס",IL: Mikan
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://total.live:80/EA/s5300669/9
+
+#EXTINF:-1 tvg-id="Arutz kehilati" tvg-name="IL: Arutz kehilati" tvg-logo="https://www.yes.co.il/contents/PublishingImages/logo_new/Home_channel_Additional/98_logo.jpg" group-title="ערוצי בידור ופנאי",IL: Arutz kehilati
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://total.live:80/EA/s5300669/79
+
+#EXTINF:-1 tvg-id="kabala" tvg-name="IL:  ערוץ הקבלה" tvg-logo="https://www.atzuma.co.il/uploaded/thumbnails-petition/8d03e0e7dcdce3ba8b60eb69f863a589c0c55093.jpg" group-title="ערוצי בידור ופנאי",IL:  ערוץ הקבלה
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://total.live:80/EA/s5300669/42
+
+#EXTINF:-1 tvg-id="hidabrut" tvg-name="IL: ערוץ ההידברות" tvg-logo="https://www.yes.co.il/contents/PublishingImages/logo_new/Home_channel_Additional/VH1_Classic_white62.png" group-title="ערוצי בידור ופנאי",IL: ערוץ ההידברות
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://total.live:80/EA/s5300669/43
+
+#EXTINF:-1 tvg-id="knesset" tvg-name="IL: knesset" tvg-logo="https://www.yes.co.il/contents/PublishingImages/logo_new/Home_channel_Additional/cneste.png" group-title="ערוצי עידן פלוס",IL: knesset
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://total.live:80/EA/s5300669/40
+
+#EXTINF:-1 tvg-id="yes 1" tvg-name="IL: Yes 1 HD" tvg-logo="https://image.ibb.co/egEAgS/yes1hd.png" group-title="ערוצי הסרטים",IL: Yes 1 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://total.live:80/EA/s5300669/562
+
+#EXTINF:-1 tvg-id="yes 2" tvg-name="IL: YES 2 HD" tvg-logo="https://image.ibb.co/b8mqgS/yes2hd.png" group-title="ערוצי הסרטים",IL: YES 2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://total.live:80/EA/s5300669/3373
+
+#EXTINF:-1 tvg-id="yes 3" tvg-name="IL: YES 3 HD" tvg-logo="https://image.ibb.co/cAGqgS/yes3hd.png" group-title="ערוצי הסרטים",IL: YES 3 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://total.live:80/EA/s5300669/3374
+
+#EXTINF:-1 tvg-id="yes 4" tvg-name="IL: YES 4 HD" tvg-logo="https://image.ibb.co/cwbCvn/yes4hd.png" group-title="ערוצי הסרטים",IL: YES 4 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://total.live:80/EA/s5300669/3375
+
+#EXTINF:-1 tvg-id="yes 5" tvg-name="IL: Yes 5 HD" tvg-logo="https://image.ibb.co/kKgO1S/yes5hd.png" group-title="ערוצי הסרטים",IL: Yes 5 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://total.live:80/EA/s5300669/566
+
+#EXTINF:-1 tvg-id="yes Israel Cinema" tvg-name="IL: Yes Israeli Cinema HD" tvg-logo="https://image.ibb.co/eCBean/yescinemahd.png" group-title="ערוצי הסרטים",IL: Yes Israeli Cinema HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://total.live:80/EA/s5300669/571
+
+#EXTINF:-1 tvg-id="yes Docu" tvg-name="IL: Yes Docu HD" tvg-logo="https://image.ibb.co/jRJsvn/yesdocuhd.png" group-title="ערוצי הטבע והמדע",IL: Yes Docu HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://total.live:80/EA/s5300669/569
+
+#EXTINF:-1 tvg-id="yes drama" tvg-name="IL: Yes Drama HD" tvg-logo="https://image.ibb.co/bP7Kan/yesdramahd.png" group-title="ערוצי הסדרות",IL: Yes Drama HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://total.live:80/EA/s5300669/570
+
+#EXTINF:-1 tvg-id="yes Comedy" tvg-name="IL: Yes Comedy HD" tvg-logo="https://preview.ibb.co/i2BZ87/yescomedyhd.png" group-title="ערוצי הסדרות",IL: Yes Comedy HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://total.live:80/EA/s5300669/568
+
+#EXTINF:-1 tvg-id="yes action" tvg-name="IL: Yes Action HD" tvg-logo="https://image.ibb.co/fTogo7/YESACTIONHD.png" group-title="ערוצי הסדרות",IL: Yes Action HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://total.live:80/EA/s5300669/567
+
+
+
+#EXTINF:-1 tvg-id="bbc.one.uk" tvg-name="UK: BBC1 FHD" tvg-logo="http://212.8.253.112/logo/UK/BBC1.png" group-title="ערוצי בריטניה",UK: BBC1 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://total.live:80/EA/s5300669/44
+#EXTINF:-1 tvg-id="bbc.two.uk" tvg-name="UK: BBC2" tvg-logo="http://212.8.253.112/logo/UK/BBC2.png" group-title="ערוצי בריטניה",UK: BBC2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://total.live:80/EA/s5300669/45
+#EXTINF:-1 tvg-id="cbbc.uk" tvg-name="UK: CBBC FHD" tvg-logo="https://raw.githubusercontent.com/Apollo2000/TVLogos/master/cbbc.uk.png" group-title="ערוצי בריטניה",UK: CBBC FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://total.live:80/EA/s5300669/455
+#EXTINF:-1 tvg-id="cbeebies.uk" tvg-name="UK: Cbeebies " tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/16/CBeebies.svg/1200px-CBeebies.svg.png" group-title="ערוצי בריטניה",UK: Cbeebies 
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://total.live:80/EA/s5300669/3896
+#EXTINF:-1 tvg-id="bbc.four.uk" tvg-name="UK: BBC4" tvg-logo="http://212.8.253.112/logo/UK/BBC4.png" group-title="ערוצי בריטניה",UK: BBC4
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://total.live:80/EA/s5300669/46
+#EXTINF:-1 tvg-id="itv.1.uk" tvg-name="UK: ITV1 FHD" tvg-logo="http://212.8.253.112/logo/UK/ITVLONDON.png" group-title="ערוצי בריטניה",UK: ITV1 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://total.live:80/EA/s5300669/47
+#EXTINF:-1 tvg-id="itv.2.uk" tvg-name="UK: ITV2" tvg-logo="https://raw.githubusercontent.com/Apollo2000/TVLogos/master/itv.2.uk.png" group-title="ערוצי בריטניה",UK: ITV2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://total.live:80/EA/s5300669/2300
+#EXTINF:-1 tvg-id="itv.3.uk" tvg-name="UK: ITV3" tvg-logo="https://github.com/Apollo2000/TVLogos/raw/master/itv.3.uk.png" group-title="ערוצי בריטניה",UK: ITV3
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://total.live:80/EA/s5300669/2301
+#EXTINF:-1 tvg-id="itv.4.uk" tvg-name="UK: ITV4" tvg-logo="https://github.com/Apollo2000/TVLogos/raw/master/itv.4.uk.png" group-title="ערוצי בריטניה",UK: ITV4
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://total.live:80/EA/s5300669/2302
+#EXTINF:-1 tvg-id="itvbe.uk" tvg-name="UK: ITVBe" tvg-logo="https://github.com/Apollo2000/TVLogos/raw/master/itvbe.uk.png" group-title="ערוצי בריטניה",UK: ITVBe
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://total.live:80/EA/s5300669/2303
+#EXTINF:-1 tvg-id="channel.4.uk" tvg-name="UK: Channel 4 FHD" tvg-logo="http://212.8.253.112/logo/UK/CHANNEL4.png" group-title="ערוצי בריטניה",UK: Channel 4 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://total.live:80/EA/s5300669/51
+#EXTINF:-1 tvg-id="channel.5.uk" tvg-name="UK: Channel 5 FHD" tvg-logo="http://212.8.253.112/logo/UK/CHANNEL5.png" group-title="ערוצי בריטניה",UK: Channel 5 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://total.live:80/EA/s5300669/52
+#EXTINF:-1 tvg-id="comedy.center.uk" tvg-name="UK: COMEDY CENT " tvg-logo="https://github.com/Apollo2000/TVLogos/raw/master/comedy.center.uk.png" group-title="ערוצי בריטניה",UK: COMEDY CENT 
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://total.live:80/EA/s5300669/2306
+#EXTINF:-1 tvg-id="comedyxtra.uk" tvg-name="UK: ComedyXtra" tvg-logo="https://github.com/Apollo2000/TVLogos/raw/master/comedyxtra.uk.png" group-title="ערוצי בריטניה",UK: ComedyXtra
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://total.live:80/EA/s5300669/4597
+#EXTINF:-1 tvg-id="e4.uk" tvg-name="UK: E4 " tvg-logo="https://raw.githubusercontent.com/Apollo2000/TVLogos/master/e4.uk.png" group-title="ערוצי בריטניה",UK: E4 
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://total.live:80/EA/s5300669/2314
+#EXTINF:-1 tvg-id="gold.uk" tvg-name="UK: GOLD" tvg-logo="https://github.com/Apollo2000/TVLogos/raw/master/gold.uk.png" group-title="ערוצי בריטניה",UK: GOLD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://total.live:80/EA/s5300669/4588
+#EXTINF:-1 tvg-id="more4.uk" tvg-name="UK: MORE 4 " tvg-logo="https://github.com/Apollo2000/TVLogos/raw/master/more4.uk.png" group-title="ערוצי בריטניה",UK: MORE 4 
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://total.live:80/EA/s5300669/2315
+#EXTINF:-1 tvg-id="4seven.uk" tvg-name="UK: 4seven" tvg-logo="http://logo.streamstv.me/picon/UK4Seven.png" group-title="ערוצי בריטניה",UK: 4seven
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://total.live:80/EA/s5300669/448
+#EXTINF:-1 tvg-id="5.usa.uk" tvg-name="UK: 5USA" tvg-logo="https://github.com/Apollo2000/TVLogos/raw/master/5.usa.uk.png" group-title="ערוצי בריטניה",UK: 5USA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://total.live:80/EA/s5300669/4572
+#EXTINF:-1 tvg-id="5star.uk" tvg-name="UK: 5Star" tvg-logo="https://github.com/Apollo2000/TVLogos/raw/master/5star.uk.png" group-title="ערוצי בריטניה",UK: 5Star
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://total.live:80/EA/s5300669/4574
+#EXTINF:-1 tvg-id="5spike.uk" tvg-name="UK: 5spike" tvg-logo="https://github.com/Apollo2000/TVLogos/raw/master/5spike.uk.png" group-title="ערוצי בריטניה",UK: 5spike
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://total.live:80/EA/s5300669/4575
+#EXTINF:-1 tvg-id="eden.uk" tvg-name="UK: Eden " tvg-logo="http://logo.streamstv.me/picon/UKEden.png" group-title="ערוצי בריטניה",UK: Eden 
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://total.live:80/EA/s5300669/1034
+#EXTINF:-1 tvg-id="quest.uk" tvg-name="UK: QUEST " tvg-logo="https://github.com/Apollo2000/TVLogos/raw/master/quest.uk.png" group-title="ערוצי בריטניה",UK: QUEST 
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://total.live:80/EA/s5300669/2316
+#EXTINF:-1 tvg-id="dave.uk" tvg-name="UK: DAVE" tvg-logo="https://github.com/Apollo2000/TVLogos/raw/master/dave.uk.png" group-title="ערוצי בריטניה",UK: DAVE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://total.live:80/EA/s5300669/4579
+#EXTINF:-1 tvg-id="drama.uk" tvg-name="UK: Drama" tvg-logo="https://github.com/Apollo2000/TVLogos/raw/master/drama.uk.png" group-title="ערוצי בריטניה",UK: Drama
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://total.live:80/EA/s5300669/4584
+#EXTINF:-1 tvg-id="pick.uk" tvg-name="UK: Pick" tvg-logo="https://github.com/Apollo2000/TVLogos/raw/master/pick.uk.png" group-title="ערוצי בריטניה",UK: Pick
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://total.live:80/EA/s5300669/4603
+#EXTINF:-1 tvg-id="really.uk" tvg-name="UK: Really" tvg-logo="https://github.com/Apollo2000/TVLogos/raw/master/really.uk.png" group-title="ערוצי בריטניה",UK: Really
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://total.live:80/EA/s5300669/4606
+#EXTINF:-1 tvg-id="syfy.uk" tvg-name="UK: Syfy" tvg-logo="https://github.com/Apollo2000/TVLogos/raw/master/syfy.uk.png" group-title="ערוצי בריטניה",UK: Syfy
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://total.live:80/EA/s5300669/4607
+#EXTINF:-1 tvg-id="tlc.uk" tvg-name="UK: TLC" tvg-logo="https://github.com/Apollo2000/TVLogos/raw/master/tlc.uk.png" group-title="ערוצי בריטניה",UK: TLC
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://total.live:80/EA/s5300669/4612
+#EXTINF:-1 tvg-id="blaze.uk" tvg-name="UK: Blaze" tvg-logo="https://github.com/Apollo2000/TVLogos/raw/master/blaze.es.png" group-title="ערוצי בריטניה",UK: Blaze
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://total.live:80/EA/s5300669/4595
+#EXTINF:-1 tvg-id="alibi.uk" tvg-name="UK: Alibi" tvg-logo="https://github.com/Apollo2000/TVLogos/raw/master/alibi.uk.png" group-title="ערוצי בריטניה",UK: Alibi
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://total.live:80/EA/s5300669/4613
+#EXTINF:-1 tvg-id="ee.uk" tvg-name="UK: E!" tvg-logo="https://github.com/Apollo2000/TVLogos/raw/master/ee.uk.png" group-title="ערוצי בריטניה",UK: E!
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://total.live:80/EA/s5300669/4585
+#EXTINF:-1 tvg-id="" tvg-name="UK: FOX" tvg-logo="http://logo.streamstv.me/picon/fox.png" group-title="ערוצי בריטניה",UK: FOX
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://total.live:80/EA/s5300669/4586
+#EXTINF:-1 tvg-id="" tvg-name="UK: Horror Channel" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/horror_channel_uk.jpg" group-title="ערוצי בריטניה",UK: Horror Channel
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://total.live:80/EA/s5300669/4589
+#EXTINF:-1 tvg-id="challenge.uk" tvg-name="UK: Challenge" tvg-logo="" group-title="ערוצי בריטניה",UK: Challenge
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://total.live:80/EA/s5300669/4578
+#EXTINF:-1 tvg-id="cbs.drama.uk" tvg-name="UK: CBS Drama" tvg-logo="https://github.com/Apollo2000/TVLogos/raw/master/cbs.drama.uk.png" group-title="ערוצי בריטניה",UK: CBS Drama
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://total.live:80/EA/s5300669/4592
+#EXTINF:-1 tvg-id="cbs.justice.ze" tvg-name="UK: CBS Justice" tvg-logo="https://i.imgur.com/SmEe3d1.png" group-title="ערוצי בריטניה",UK: CBS Justice
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://total.live:80/EA/s5300669/4593
+#EXTINF:-1 tvg-id="cbs.reality.uk" tvg-name="UK: CBS Reality" tvg-logo="https://github.com/Apollo2000/TVLogos/raw/master/cbs.reality.uk.png" group-title="ערוצי בריטניה",UK: CBS Reality
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://total.live:80/EA/s5300669/4596
+#EXTINF:-1 tvg-id="true.ent.uk" tvg-name="UK: Sony Channel" tvg-logo="https://github.com/Apollo2000/TVLogos/raw/master/sony.movies.uk.png" group-title="ערוצי בריטניה",UK: Sony Channel
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://total.live:80/EA/s5300669/4619
+#EXTINF:-1 tvg-id="" tvg-name="UK: Food Network" tvg-logo="https://github.com/Apollo2000/TVLogos/raw/master/food.network.uk.png" group-title="ערוצי בריטניה",UK: Food Network
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://total.live:80/EA/s5300669/4600
+#EXTINF:-1 tvg-id="virgin.media.one.uk" tvg-name="UK: Virgin Media One" tvg-logo="http://logo.premium-ott.com:8000/logo/virginmediaone.png" group-title="ערוצי בריטניה",UK: Virgin Media One
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://total.live:80/EA/s5300669/4614
+#EXTINF:-1 tvg-id="virgin.media.two.uk" tvg-name="UK: Virgin Media Two" tvg-logo="http://logo.premium-ott.com:8000/logo/virginmediatwo.png" group-title="ערוצי בריטניה",UK: Virgin Media Two
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://total.live:80/EA/s5300669/4615
+#EXTINF:-1 tvg-id="virgin.media.three.uk" tvg-name="UK: Virgin Media Three" tvg-logo="http://logo.premium-ott.com:8000/logo/virginmediathree.png" group-title="ערוצי בריטניה",UK: Virgin Media Three
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://total.live:80/EA/s5300669/4616
+#EXTINF:-1 tvg-id="virgin.media.sport.uk" tvg-name="UK:  Virgin Sport" tvg-logo="" group-title="ערוצי בריטניה",UK:  Virgin Sport
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://total.live:80/EA/s5300669/4587
+#EXTINF:-1 tvg-id="kerrang.uk" tvg-name="UK: Kerrang" tvg-logo="" group-title="ערוצי בריטניה",UK: Kerrang
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://total.live:80/EA/s5300669/4618
+#EXTINF:-1 tvg-id="kiss.uk" tvg-name="UK: Kiss" tvg-logo="" group-title="ערוצי בריטניה",UK: Kiss
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://total.live:80/EA/s5300669/4610
+#EXTINF:-1 tvg-id="the.box.uk" tvg-name="UK: The Box" tvg-logo="" group-title="ערוצי בריטניה",UK: The Box
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://total.live:80/EA/s5300669/4573
+#EXTINF:-1 tvg-id="box.hits.uk" tvg-name="UK: Box Hits" tvg-logo="" group-title="ערוצי בריטניה",UK: Box Hits
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://total.live:80/EA/s5300669/4604
+#EXTINF:-1 tvg-id="magic.uk" tvg-name="UK: Magic" tvg-logo="" group-title="ערוצי בריטניה",UK: Magic
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://total.live:80/EA/s5300669/4605
+#EXTINF:-1 tvg-id="bbc.world.north.america.ca" tvg-name="UK: BBC World News" tvg-logo="http://ott.onlineott.tv/logos/320.png" group-title="ערוצי בריטניה",UK: BBC World News
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://total.live:80/EA/s5300669/432
+#EXTINF:-1 tvg-id="bloomberg.tv.usa.us" tvg-name="UK: Bloomberg" tvg-logo="http://logo.premium-ott.com:8000/logo/bloomberg.png" group-title="ערוצי בריטניה",UK: Bloomberg
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://total.live:80/EA/s5300669/431
+#EXTINF:-1 tvg-id="euronews.uk" tvg-name="UK: Euronews" tvg-logo="http://ott.onlineott.tv/logos/17.png" group-title="ערוצי בריטניה",UK: Euronews
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://total.live:80/EA/s5300669/670
+#EXTINF:-1 tvg-id="sky.news.uk" tvg-name="UK: Sky news" tvg-logo="https://github.com/Apollo2000/TVLogos/raw/master/sky.news.uk.png" group-title="ערוצי בריטניה",UK: Sky news
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://total.live:80/EA/s5300669/428
+#EXTINF:-1 tvg-id="France24" tvg-name="UK: France24 english" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/65/FRANCE_24_logo.svg/200px-FRANCE_24_logo.svg.png" group-title="ערוצי בריטניה",UK: France24 english
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://total.live:80/EA/s5300669/514
+#EXTINF:-1 tvg-id="fdghodsfgh.ss" tvg-name="UK: Sky Sports News" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Sky_Sport_News_HD_Logo_2016.png/800px-Sky_Sport_News_HD_Logo_2016.png" group-title="Sky Sports ערוצי",UK: Sky Sports News
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://total.live:80/EA/s5300669/430
+#EXTINF:-1 tvg-id="fdghodsfgh.ss" tvg-name="UK: Sky Sports News (2)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Sky_Sport_News_HD_Logo_2016.png/800px-Sky_Sport_News_HD_Logo_2016.png" group-title="Sky Sports ערוצי",UK: Sky Sports News (2)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://total.live:80/EA/s5300669/5048
+#EXTINF:-1 tvg-id="szckleid.ss" tvg-name="UK: Sky Sports Mix" tvg-logo="https://media.info/i/lf/300/1507600470/5995.png" group-title="Sky Sports ערוצי",UK: Sky Sports Mix
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://total.live:80/EA/s5300669/429
+#EXTINF:-1 tvg-id="szckleid.ss" tvg-name="UK: Sky Sports Mix (2)" tvg-logo="https://media.info/i/lf/300/1507600470/5995.png" group-title="Sky Sports ערוצי",UK: Sky Sports Mix (2)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://total.live:80/EA/s5300669/5047
+#EXTINF:-1 tvg-id="diiefbxx.ss" tvg-name="UK: SKY SPORTS PREMIER LEAGUE" tvg-logo="https://media.info/i/lf/300/1507600205/1554.png" group-title="Sky Sports ערוצי",UK: SKY SPORTS PREMIER LEAGUE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://total.live:80/EA/s5300669/942
+#EXTINF:-1 tvg-id="diiefbxx.ss" tvg-name="UK: SKY SPORTS PREMIER LEAGUE (2)" tvg-logo="https://media.info/i/lf/300/1507600205/1554.png" group-title="Sky Sports ערוצי",UK: SKY SPORTS PREMIER LEAGUE (2)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://total.live:80/EA/s5300669/5040
+#EXTINF:-1 tvg-id="eppvjpkd.ss" tvg-name="UK: SKY SPORTS MAIN EVENT" tvg-logo="https://media.info/i/lf/300/1507600158/1086.png" group-title="Sky Sports ערוצי",UK: SKY SPORTS MAIN EVENT
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://total.live:80/EA/s5300669/943
+#EXTINF:-1 tvg-id="eppvjpkd.ss" tvg-name="UK: SKY SPORTS MAIN EVENT (2)" tvg-logo="https://media.info/i/lf/300/1507600158/1086.png" group-title="Sky Sports ערוצי",UK: SKY SPORTS MAIN EVENT (2)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://total.live:80/EA/s5300669/5046
+#EXTINF:-1 tvg-id="kszsuhwg.ss" tvg-name="UK: SKY SPORTS GOLF" tvg-logo="https://media.info/i/lf/300/1507600318/1110.png" group-title="Sky Sports ערוצי",UK: SKY SPORTS GOLF
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://total.live:80/EA/s5300669/944
+#EXTINF:-1 tvg-id="kszsuhwg.ss" tvg-name="UK: SKY SPORTS GOLF (2)" tvg-logo="https://media.info/i/lf/300/1507600318/1110.png" group-title="Sky Sports ערוצי",UK: SKY SPORTS GOLF (2)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://total.live:80/EA/s5300669/5045
+#EXTINF:-1 tvg-id="qkihgakk.ss" tvg-name="UK: SKY SPORTS F1" tvg-logo="https://media.info/i/lf/300/1500468425/1514.png" group-title="Sky Sports ערוצי",UK: SKY SPORTS F1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://total.live:80/EA/s5300669/954
+#EXTINF:-1 tvg-id="qkihgakk.ss" tvg-name="UK: SKY SPORTS F1 (2)" tvg-logo="https://media.info/i/lf/300/1500468425/1514.png" group-title="Sky Sports ערוצי",UK: SKY SPORTS F1 (2)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://total.live:80/EA/s5300669/5044
+#EXTINF:-1 tvg-id="hasitauf.ss" tvg-name="UK: SKY SPORTS CRICKET" tvg-logo="https://media.info/i/lf/300/1507600280/1134.png" group-title="Sky Sports ערוצי",UK: SKY SPORTS CRICKET
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://total.live:80/EA/s5300669/945
+#EXTINF:-1 tvg-id="hasitauf.ss" tvg-name="UK: SKY SPORTS CRICKET (2)" tvg-logo="https://media.info/i/lf/300/1507600280/1134.png" group-title="Sky Sports ערוצי",UK: SKY SPORTS CRICKET (2)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://total.live:80/EA/s5300669/5043
+#EXTINF:-1 tvg-id="mfghdzzfhs.ss" tvg-name="UK: SKY SPORTS ARENA" tvg-logo="https://media.info/i/lf/300/1507600420/6753.png" group-title="Sky Sports ערוצי",UK: SKY SPORTS ARENA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://total.live:80/EA/s5300669/946
+#EXTINF:-1 tvg-id="mfghdzzfhs.ss" tvg-name="UK: SKY SPORTS ARENA (2)" tvg-logo="https://media.info/i/lf/300/1507600420/6753.png" group-title="Sky Sports ערוצי",UK: SKY SPORTS ARENA (2)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://total.live:80/EA/s5300669/5042
+#EXTINF:-1 tvg-id="ououennp.ss" tvg-name="UK: SKY SPORTS ACTION" tvg-logo="https://d24j9r7lck9cin.cloudfront.net/l/o/1/1135.1507600377.png" group-title="Sky Sports ערוצי",UK: SKY SPORTS ACTION
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://total.live:80/EA/s5300669/947
+#EXTINF:-1 tvg-id="ououennp.ss" tvg-name="UK: SKY SPORTS ACTION (2)" tvg-logo="https://d24j9r7lck9cin.cloudfront.net/l/o/1/1135.1507600377.png" group-title="Sky Sports ערוצי",UK: SKY SPORTS ACTION (2)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://total.live:80/EA/s5300669/5041
+#EXTINF:-1 tvg-id="lvupvmnk.ss" tvg-name="UK: SKY SPORTS FOOTBALL" tvg-logo="http://logo.premium-ott.com:8000/logo/skysportfootball.png" group-title="Sky Sports ערוצי",UK: SKY SPORTS FOOTBALL
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://total.live:80/EA/s5300669/2325
+#EXTINF:-1 tvg-id="lvupvmnk.ss" tvg-name="UK: SKY SPORTS FOOTBALL (2)" tvg-logo="http://logo.premium-ott.com:8000/logo/skysportfootball.png" group-title="Sky Sports ערוצי",UK: SKY SPORTS FOOTBALL (2)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://total.live:80/EA/s5300669/5058
+#EXTINF:-1 tvg-id="mutv.uk" tvg-name="UK: MUTV UK" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/b/b8/MUTV_logo.png/200px-MUTV_logo.png" group-title="ערוצי בריטניה",UK: MUTV UK
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://total.live:80/EA/s5300669/427
+#EXTINF:-1 tvg-id="lfc.uk" tvg-name="UK: LFC TV UK" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/1f/LFC_TV_logo.png/250px-LFC_TV_logo.png" group-title="ערוצי בריטניה",UK: LFC TV UK
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://total.live:80/EA/s5300669/454
+#EXTINF:-1 tvg-id="eurosport.1.uk" tvg-name="UK: Eurosport 1 HD" tvg-logo="http://212.8.253.112/logo/UK/EUROSPORTS1.png" group-title="ערוצי בריטניה",UK: Eurosport 1 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://total.live:80/EA/s5300669/425
+#EXTINF:-1 tvg-id="eurosport.2.uk" tvg-name="UK: Eurosport 2 HD" tvg-logo="http://212.8.253.112/logo/UK/EUROSPORTS2.png" group-title="ערוצי בריטניה",UK: Eurosport 2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://total.live:80/EA/s5300669/426
+#EXTINF:-1 tvg-id="bt.sport.1.uk" tvg-name="UK: BT Sport 1 UK" tvg-logo="https://github.com/Apollo2000/TVLogos/raw/master/bt.sport.1.uk.png" group-title="BT Sport ערוצי",UK: BT Sport 1 UK
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://total.live:80/EA/s5300669/421
+#EXTINF:-1 tvg-id="bt.sport.1.uk" tvg-name="UK: BT Sport 1 UK (2)" tvg-logo="https://github.com/Apollo2000/TVLogos/raw/master/bt.sport.1.uk.png" group-title="BT Sport ערוצי",UK: BT Sport 1 UK (2)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://total.live:80/EA/s5300669/439
+#EXTINF:-1 tvg-id="bt.sport.2.uk" tvg-name="UK: BT Sport 2 UK" tvg-logo="https://archive.org/download/BtSport2Hd/bt%20sport%202%20hd.png" group-title="BT Sport ערוצי",UK: BT Sport 2 UK
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://total.live:80/EA/s5300669/422
+#EXTINF:-1 tvg-id="bt.sport.2.uk" tvg-name="UK: BT Sport 2 UK (2)" tvg-logo="https://archive.org/download/BtSport2Hd/bt%20sport%202%20hd.png" group-title="BT Sport ערוצי",UK: BT Sport 2 UK (2)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://total.live:80/EA/s5300669/434
+#EXTINF:-1 tvg-id="bt.sport.3.uk" tvg-name="UK: BT Sport 3 UK (2)" tvg-logo="https://archive.org/download/BtSport3Hd/bt%20sport%203%20hd.png" group-title="BT Sport ערוצי",UK: BT Sport 3 UK (2)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://total.live:80/EA/s5300669/443
+#EXTINF:-1 tvg-id="bt.sport.3.uk" tvg-name="UK: BT Sport 3 UK" tvg-logo="https://archive.org/download/BtSport3Hd/bt%20sport%203%20hd.png" group-title="BT Sport ערוצי",UK: BT Sport 3 UK
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://total.live:80/EA/s5300669/423
+#EXTINF:-1 tvg-id="bt.sport.espn.uk" tvg-name="UK: BT Sport ESPN UK" tvg-logo="https://archive.org/download/BtSportEspnHd/bt%20sport%20espn%20hd.png" group-title="BT Sport ערוצי",UK: BT Sport ESPN UK
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://total.live:80/EA/s5300669/424
+#EXTINF:-1 tvg-id="bt.sport.espn.uk" tvg-name="UK: BT Sport ESPN UK (2)" tvg-logo="https://archive.org/download/BtSportEspnHd/bt%20sport%20espn%20hd.png" group-title="BT Sport ערוצי",UK: BT Sport ESPN UK (2)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://total.live:80/EA/s5300669/4591
+#EXTINF:-1 tvg-id="boxnation.uk" tvg-name="UK: Box Nation UK" tvg-logo="http://212.8.253.112/logo/UK/BOXNATION.png" group-title="ערוצי בריטניה",UK: Box Nation UK
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://total.live:80/EA/s5300669/420
+#EXTINF:-1 tvg-id="sky.arts.uk" tvg-name="UK: Sky ARTS" tvg-logo="https://github.com/Apollo2000/TVLogos/raw/master/sky.arts.uk.png" group-title="ערוצי בריטניה",UK: Sky ARTS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://total.live:80/EA/s5300669/4608
+#EXTINF:-1 tvg-id="sky.atlantic.uk" tvg-name="UK: Sky Atlantic" tvg-logo="https://github.com/Apollo2000/TVLogos/raw/master/sky.atlantic.uk.png" group-title="ערוצי בריטניה",UK: Sky Atlantic
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://total.live:80/EA/s5300669/4609
+#EXTINF:-1 tvg-id="sky.one.uk" tvg-name="UK: SKY ONE" tvg-logo="https://github.com/Apollo2000/TVLogos/raw/master/sky.one.uk.png" group-title="ערוצי בריטניה",UK: SKY ONE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://total.live:80/EA/s5300669/2296
+#EXTINF:-1 tvg-id="sky.two.uk" tvg-name="UK: Sky Two" tvg-logo="https://github.com/Apollo2000/TVLogos/raw/master/sky.two.uk.png" group-title="ערוצי בריטניה",UK: Sky Two
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://total.live:80/EA/s5300669/4611
+#EXTINF:-1 tvg-id="sky.cinema.select.uk" tvg-name="UK: Sky Cinema Select" tvg-logo="http://logo.streamstv.me/picon/UKSkyCinemaSelect.png" group-title="ערוצי בריטניה",UK: Sky Cinema Select
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://total.live:80/EA/s5300669/451
+#EXTINF:-1 tvg-id="sky.cinema.comedy.uk" tvg-name="UK: Sky Cinema Comedy" tvg-logo="https://github.com/Apollo2000/TVLogos/raw/master/sky.cinema.comedy.uk.png" group-title="ערוצי בריטניה",UK: Sky Cinema Comedy
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://total.live:80/EA/s5300669/435
+#EXTINF:-1 tvg-id="sky.cinema.disney.uk" tvg-name="UK: Sky Cinema Disney" tvg-logo="https://github.com/Apollo2000/TVLogos/raw/master/sky.cinema.disney.uk.png" group-title="ערוצי בריטניה",UK: Sky Cinema Disney
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://total.live:80/EA/s5300669/436
+#EXTINF:-1 tvg-id="sky.cinema.drama.uk" tvg-name="UK: Sky Cinema Drama" tvg-logo="https://github.com/Apollo2000/TVLogos/raw/master/sky.cinema.drama.uk.png" group-title="ערוצי בריטניה",UK: Sky Cinema Drama
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://total.live:80/EA/s5300669/437
+#EXTINF:-1 tvg-id="sky.cinema.family.uk" tvg-name="UK: Sky Cinema Family" tvg-logo="https://github.com/Apollo2000/TVLogos/raw/master/sky.cinema.family.uk.png" group-title="ערוצי בריטניה",UK: Sky Cinema Family
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://total.live:80/EA/s5300669/438
+#EXTINF:-1 tvg-id="sky.cinema.hits.uk" tvg-name="UK: Sky Cinema Hits" tvg-logo="https://github.com/Apollo2000/TVLogos/raw/master/sky.cinema.hits.uk.png" group-title="ערוצי בריטניה",UK: Sky Cinema Hits
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://total.live:80/EA/s5300669/440
+#EXTINF:-1 tvg-id="sky.cinema.premiere.uk" tvg-name="UK: Sky Cinema Premiere" tvg-logo="https://github.com/Apollo2000/TVLogos/raw/master/sky.cinema.premiere.uk.png" group-title="ערוצי בריטניה",UK: Sky Cinema Premiere
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://total.live:80/EA/s5300669/441
+#EXTINF:-1 tvg-id="sky.cinema.sci.fihorror.uk" tvg-name="UK: Sky Cinema Sci-fi Horror" tvg-logo="http://logo.streamstv.me/picon/UKSKYCINEMASCIFIHORROR.png" group-title="ערוצי בריטניה",UK: Sky Cinema Sci-fi Horror
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://total.live:80/EA/s5300669/442
+#EXTINF:-1 tvg-id="discovery.uk" tvg-name="UK: DISCOVERY" tvg-logo="https://iptvx.one/icn/discovery-channel.png" group-title="ערוצי בריטניה",UK: DISCOVERY
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://total.live:80/EA/s5300669/2307
+#EXTINF:-1 tvg-id="discovery.science.uk" tvg-name="UK: Discovery Science" tvg-logo="https://github.com/Apollo2000/TVLogos/raw/master/discovery.science.uk.png" group-title="ערוצי בריטניה",UK: Discovery Science
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://total.live:80/EA/s5300669/4581
+#EXTINF:-1 tvg-id="history.uk" tvg-name="UK: Discovery History" tvg-logo="https://github.com/Apollo2000/TVLogos/raw/master/history.uk.png" group-title="ערוצי בריטניה",UK: Discovery History
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://total.live:80/EA/s5300669/4580
+#EXTINF:-1 tvg-id="discovery.shed.uk" tvg-name="UK: Discovery Shed" tvg-logo="https://media.tv4.live/discovery.shed.uk.png" group-title="ערוצי בריטניה",UK: Discovery Shed
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://total.live:80/EA/s5300669/4582
+#EXTINF:-1 tvg-id="discovery.turbo.uk" tvg-name="UK: Discovery Turbo" tvg-logo="https://github.com/Apollo2000/TVLogos/raw/master/discovery.turbo.uk.png" group-title="ערוצי בריטניה",UK: Discovery Turbo
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://total.live:80/EA/s5300669/4583
+#EXTINF:-1 tvg-id="investigation.discovery.uk" tvg-name="UK: Investigation Discovery" tvg-logo="https://github.com/Apollo2000/TVLogos/raw/master/investigation.discovery.uk.png" group-title="ערוצי בריטניה",UK: Investigation Discovery
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://total.live:80/EA/s5300669/4590
+#EXTINF:-1 tvg-id="animal.planet.uk" tvg-name="UK: ANIMAL PLANET" tvg-logo="https://github.com/Apollo2000/TVLogos/raw/master/animal.planet.uk.png" group-title="ערוצי בריטניה",UK: ANIMAL PLANET
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://total.live:80/EA/s5300669/2318
+#EXTINF:-1 tvg-id="nat.geo.uk" tvg-name="UK: NAT GEO FHD" tvg-logo="http://212.8.253.112/logo/UK/NATGEOHD.png" group-title="ערוצי בריטניה",UK: NAT GEO FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://total.live:80/EA/s5300669/2309
+#EXTINF:-1 tvg-id="nat.geo.wild.uk" tvg-name="UK: NAT GEO WILD FHD" tvg-logo="http://logo.streamstv.me/picon/natgeowild.png" group-title="ערוצי בריטניה",UK: NAT GEO WILD FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://total.live:80/EA/s5300669/2310
+#EXTINF:-1 tvg-id="history.uk" tvg-name="UK: HISTORY" tvg-logo="https://raw.githubusercontent.com/Apollo2000/TVLogos/master/history.uk.png" group-title="ערוצי בריטניה",UK: HISTORY
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://total.live:80/EA/s5300669/2311
+#EXTINF:-1 tvg-id="crime.investigation.uk" tvg-name="UK: CRIME+INV FHD" tvg-logo="http://logo.premium-ott.com:8000/logo/crimeplusinv.png" group-title="ערוצי בריטניה",UK: CRIME+INV FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://total.live:80/EA/s5300669/2317
+#EXTINF:-1 tvg-id="paramount.network.uk" tvg-name="UK: BabyTV" tvg-logo="" group-title="ערוצי בריטניה",UK: BabyTV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://total.live:80/EA/s5300669/4602
+#EXTINF:-1 tvg-id="cartoon.network.uk" tvg-name="UK: Cartoon Network" tvg-logo="https://raw.githubusercontent.com/Apollo2000/TVLogos/master/cartoon.network.usa.eastern.us.png" group-title="ערוצי בריטניה",UK: Cartoon Network
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://total.live:80/EA/s5300669/4570
+#EXTINF:-1 tvg-id="boomerang.uk" tvg-name="UK: Boomerang" tvg-logo="https://github.com/Apollo2000/TVLogos/raw/master/boomerang.uk.png" group-title="ערוצי בריטניה",UK: Boomerang
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://total.live:80/EA/s5300669/4576
+#EXTINF:-1 tvg-id="nickelodeon.uk" tvg-name="UK: Nickelodeon" tvg-logo="https://github.com/Apollo2000/TVLogos/raw/master/nickelodeon.uk.png" group-title="ערוצי בריטניה",UK: Nickelodeon
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://total.live:80/EA/s5300669/4601
+#EXTINF:-1 tvg-id="disney.uk" tvg-name="UK: Disney Channel" tvg-logo="https://raw.githubusercontent.com/Apollo2000/TVLogos/master/disney.uk.png" group-title="ערוצי בריטניה",UK: Disney Channel
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://total.live:80/EA/s5300669/4571
+#EXTINF:-1 tvg-id="disney.jr.uk" tvg-name="UK: Disney Junior" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/disney_junior_uk.jpg" group-title="ערוצי בריטניה",UK: Disney Junior
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://total.live:80/EA/s5300669/4598
+#EXTINF:-1 tvg-id="disney.xd.uk" tvg-name="UK: Disney XD" tvg-logo="https://github.com/Apollo2000/TVLogos/raw/master/disney.xd.uk.png" group-title="ערוצי בריטניה",UK: Disney XD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://total.live:80/EA/s5300669/4599
+#EXTINF:-1 tvg-id="cartoonito.uk" tvg-name="UK: Cartoonito" tvg-logo="https://github.com/Apollo2000/TVLogos/raw/master/cartoonito.uk.png" group-title="ערוצי בריטניה",UK: Cartoonito
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://total.live:80/EA/s5300669/4577
+
+
+
+#EXTINF:-1 tvg-id="abc.wabc.new.york.ny.us" tvg-name="US: ABC (WABC) New York NY" tvg-logo="https://raw.githubusercontent.com/Apollo2000/TVLogos/master/abc.wabc.new.york.ny.us.png" group-title="ערוצי ארצות הברית",US: ABC (WABC) New York NY
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://total.live:80/EA/s5300669/314
+#EXTINF:-1 tvg-id="cbs.wcbs.new.york.ny.us" tvg-name="US: CBS (WCBS) New York NY" tvg-logo="https://raw.githubusercontent.com/Apollo2000/TVLogos/master/cbs.wcbs.new.york.ny.us.png" group-title="ערוצי ארצות הברית",US: CBS (WCBS) New York NY
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://total.live:80/EA/s5300669/317
+#EXTINF:-1 tvg-id="fox.wnyw.new.york.ny.us" tvg-name="US: FOX (WNYW) New York NY" tvg-logo="https://raw.githubusercontent.com/Apollo2000/TVLogos/master/fox.wnyw.new.york.ny.us.png" group-title="ערוצי ארצות הברית",US: FOX (WNYW) New York NY
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://total.live:80/EA/s5300669/316
+#EXTINF:-1 tvg-id="nbc.wnbc.new.york.ny.us" tvg-name="US: NBC (WNBC) New York NY" tvg-logo="https://raw.githubusercontent.com/Apollo2000/TVLogos/master/nbc.wnbc.new.york.ny.us.png" group-title="ערוצי ארצות הברית",US: NBC (WNBC) New York NY
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://total.live:80/EA/s5300669/315
+#EXTINF:-1 tvg-id="cw.wupa.atlanta.ga.us" tvg-name="US: CW (WUPA) Atlanta GA" tvg-logo="http://logo.streamstv.me/picon/USCWFHDVIP.png" group-title="ערוצי ארצות הברית",US: CW (WUPA) Atlanta GA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://total.live:80/EA/s5300669/318
+#EXTINF:-1 tvg-id="fox.sports.1.us" tvg-name="US: Fox Sports 1" tvg-logo="https://raw.githubusercontent.com/Apollo2000/TVLogos/master/fox.sports.1.us.png" group-title="ערוצי ארצות הברית",US: Fox Sports 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://total.live:80/EA/s5300669/308
+#EXTINF:-1 tvg-id="fox.sports.2.us" tvg-name="US: Fox Sports 2" tvg-logo="https://raw.githubusercontent.com/Apollo2000/TVLogos/master/fox.sports.2.us.png" group-title="ערוצי ארצות הברית",US: Fox Sports 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://total.live:80/EA/s5300669/309
+#EXTINF:-1 tvg-id="espn.us" tvg-name="US: ESPN US" tvg-logo="https://raw.githubusercontent.com/Apollo2000/TVLogos/master/espn.us.png" group-title="ערוצי ארצות הברית",US: ESPN US
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://total.live:80/EA/s5300669/321
+#EXTINF:-1 tvg-id="espn2.us" tvg-name="US: ESPN 2 US" tvg-logo="https://raw.githubusercontent.com/Apollo2000/TVLogos/master/espn2.us.png" group-title="ערוצי ארצות הברית",US: ESPN 2 US
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://total.live:80/EA/s5300669/323
+#EXTINF:-1 tvg-id="espn.news.us" tvg-name="US: ESPN News US" tvg-logo="https://raw.githubusercontent.com/Apollo2000/TVLogos/master/espn.news.us.png" group-title="ערוצי ארצות הברית",US: ESPN News US
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://total.live:80/EA/s5300669/320
+#EXTINF:-1 tvg-id="espn.deportes.us" tvg-name="US: ESPN Deportes" tvg-logo="https://raw.githubusercontent.com/Apollo2000/TVLogos/master/espn.deportes.us.png" group-title="ערוצי ארצות הברית",US: ESPN Deportes
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://total.live:80/EA/s5300669/322
+#EXTINF:-1 tvg-id="nba.tv.usa.us" tvg-name="US: NBA TV US" tvg-logo="https://raw.githubusercontent.com/Apollo2000/TVLogos/master/nba.tv.usa.us.png" group-title="ערוצי ארצות הברית",US: NBA TV US
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://total.live:80/EA/s5300669/306
+#EXTINF:-1 tvg-id="espn.u.us" tvg-name="US: ESPN U" tvg-logo="https://raw.githubusercontent.com/Apollo2000/TVLogos/master/espn.u.us.png" group-title="ערוצי ארצות הברית",US: ESPN U
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://total.live:80/EA/s5300669/464
+#EXTINF:-1 tvg-id="cbs.sports.network.usa.us" tvg-name="US: CBS Sports" tvg-logo="http://epg.justco.cc/guide/logos/CBS%20Sports.png" group-title="ערוצי ארצות הברית",US: CBS Sports
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://total.live:80/EA/s5300669/418
+#EXTINF:-1 tvg-id="nbc.sports.network.us" tvg-name="US: NBC Sports Network US" tvg-logo="https://raw.githubusercontent.com/Apollo2000/TVLogos/master/nbc.sports.network.us.png" group-title="ערוצי ארצות הברית",US: NBC Sports Network US
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://total.live:80/EA/s5300669/311
+#EXTINF:-1 tvg-id="nhl.network.usa.us" tvg-name="US: NHL Network US" tvg-logo="http://logo.streamstv.me/picon/USNHLNetworkHD.png" group-title="ערוצי ארצות הברית",US: NHL Network US
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://total.live:80/EA/s5300669/290
+#EXTINF:-1 tvg-id="nfl.network.us" tvg-name="US: NFL Network US" tvg-logo="http://epg.justco.cc/guide/logos/NFL.png" group-title="ערוצי ארצות הברית",US: NFL Network US
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://total.live:80/EA/s5300669/305
+#EXTINF:-1 tvg-id="nfl.red.zone.us" tvg-name="US: NFL RedZone US" tvg-logo="https://raw.githubusercontent.com/Apollo2000/TVLogos/master/nfl.red.zone.us.png" group-title="ערוצי ארצות הברית",US: NFL RedZone US
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://total.live:80/EA/s5300669/313
+#EXTINF:-1 tvg-id="mlb.network.us" tvg-name="US: MLB Network US" tvg-logo="https://raw.githubusercontent.com/Apollo2000/TVLogos/master/mlb.network.us.png" group-title="ערוצי ארצות הברית",US: MLB Network US
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://total.live:80/EA/s5300669/307
+#EXTINF:-1 tvg-id="golf.channel.usa.us" tvg-name="US: Golf Channel US" tvg-logo="https://raw.githubusercontent.com/Apollo2000/TVLogos/master/golf.channel.usa.us.png" group-title="ערוצי ארצות הברית",US: Golf Channel US
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://total.live:80/EA/s5300669/310
+#EXTINF:-1 tvg-id="the.tennis.channel.us" tvg-name="US: Tennis Channel US" tvg-logo="https://raw.githubusercontent.com/Apollo2000/TVLogos/master/the.tennis.channel.us.png" group-title="ערוצי ארצות הברית",US: Tennis Channel US
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://total.live:80/EA/s5300669/312
+#EXTINF:-1 tvg-id="msg.us" tvg-name="US: MSG" tvg-logo="http://logo.premium-ott.com:8000/logo/msg.png" group-title="ערוצי ארצות הברית",US: MSG
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://total.live:80/EA/s5300669/4944
+#EXTINF:-1 tvg-id="acc.network.us" tvg-name="US: ACC Network" tvg-logo="https://awfulannouncing.com/wp-content/uploads/sites/94/2013/05/accnetworklogo.png" group-title="ערוצי ארצות הברית",US: ACC Network
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://total.live:80/EA/s5300669/4936
+#EXTINF:-1 tvg-id="sec.network.us" tvg-name="US: SEC Network" tvg-logo="http://logo.premium-ott.com:8000/logo/secnetwork.png" group-title="ערוצי ארצות הברית",US: SEC Network
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://total.live:80/EA/s5300669/4920
+#EXTINF:-1 tvg-id="ginx.esports.tv.canada.us" tvg-name="US: GINX" tvg-logo="http://logo.premium-ott.com:8000/logo/ginx.png" group-title="ערוצי ארצות הברית",US: GINX
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://total.live:80/EA/s5300669/4934
+#EXTINF:-1 tvg-id="ufc.us" tvg-name="US: UFC 24/7" tvg-logo="https://github.com/Apollo2000/TVLogos/raw/master/ufc.us.png" group-title="ערוצי ארצות הברית",US: UFC 24/7
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://total.live:80/EA/s5300669/319
+#EXTINF:-1 tvg-id="wwe.network.ca" tvg-name="US: WWE" tvg-logo="http://logo.streamstv.me/picon/USWWEHD.png" group-title="ערוצי ארצות הברית",US: WWE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://total.live:80/EA/s5300669/393
+#EXTINF:-1 tvg-id="wwe.network.ca" tvg-name="US: WWE Network" tvg-logo="http://logo.premium-ott.com:8000/logo/wwenetwork.png" group-title="ערוצי ארצות הברית",US: WWE Network
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://total.live:80/EA/s5300669/5284
+#EXTINF:-1 tvg-id="tnt.east.us" tvg-name="US: TNT US" tvg-logo="https://raw.githubusercontent.com/Apollo2000/TVLogos/master/tnt.east.us.png" group-title="ערוצי ארצות הברית",US: TNT US
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://total.live:80/EA/s5300669/291
+#EXTINF:-1 tvg-id="ae.us.eastern.us" tvg-name="US: A&E (East) US" tvg-logo="https://raw.githubusercontent.com/Apollo2000/TVLogos/master/ae.us.eastern.us.png" group-title="ערוצי ארצות הברית",US: A&E (East) US
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://total.live:80/EA/s5300669/283
+#EXTINF:-1 tvg-id="amc.eastern.us" tvg-name="US: AMC (East) US" tvg-logo="https://raw.githubusercontent.com/Apollo2000/TVLogos/master/amc.eastern.us.png" group-title="ערוצי ארצות הברית",US: AMC (East) US
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://total.live:80/EA/s5300669/284
+#EXTINF:-1 tvg-id="usa.network.east.us" tvg-name="US: USA Network (East)" tvg-logo="https://raw.githubusercontent.com/Apollo2000/TVLogos/master/usa.network.east.us.png" group-title="ערוצי ארצות הברית",US: USA Network (East)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://total.live:80/EA/s5300669/301
+#EXTINF:-1 tvg-id="bbc.america.east.us" tvg-name="US: BBC America" tvg-logo="http://logo.premium-ott.com:8000/logo/bbcamerica.png" group-title="ערוצי ארצות הברית",US: BBC America
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://total.live:80/EA/s5300669/936
+#EXTINF:-1 tvg-id="mtv.usa.eastern.us" tvg-name="US: MTV (East)" tvg-logo="http://logo.streamstv.me/picon/mtvhd.png" group-title="ערוצי ארצות הברית",US: MTV (East)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://total.live:80/EA/s5300669/925
+#EXTINF:-1 tvg-id="vh1.eastern.us" tvg-name="US: VH1 (East)" tvg-logo="http://logo.premium-ott.com:8000/logo/vh1.png" group-title="ערוצי ארצות הברית",US: VH1 (East)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://total.live:80/EA/s5300669/4417
+#EXTINF:-1 tvg-id="bravo.usa.eastern.us" tvg-name="US: Bravo (East)" tvg-logo="http://logo.streamstv.me/picon/USBravoHD.png" group-title="ערוצי ארצות הברית",US: Bravo (East)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://total.live:80/EA/s5300669/933
+#EXTINF:-1 tvg-id="independent.film.channel.us.us" tvg-name="US: IFC" tvg-logo="http://logo.premium-ott.com:8000/logo/ifc.png" group-title="ערוצי ארצות הברית",US: IFC
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://total.live:80/EA/s5300669/3930
+#EXTINF:-1 tvg-id="comedy.central.eastern.us" tvg-name="US: Comedy Central US" tvg-logo="http://logo.streamstv.me/picon/comedycentralhd.png" group-title="ערוצי ארצות הברית",US: Comedy Central US
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://total.live:80/EA/s5300669/285
+#EXTINF:-1 tvg-id="tbs.east.us" tvg-name="US: TBS" tvg-logo="https://raw.githubusercontent.com/Apollo2000/TVLogos/master/tbs.east.us.png" group-title="ערוצי ארצות הברית",US: TBS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://total.live:80/EA/s5300669/300
+#EXTINF:-1 tvg-id="e.entertainment.usa.eastern.us" tvg-name="US: E! Entertainment (East)" tvg-logo="https://raw.githubusercontent.com/Apollo2000/TVLogos/master/e.entertainment.usa.eastern.us.png" group-title="ערוצי ארצות הברית",US: E! Entertainment (East)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://total.live:80/EA/s5300669/559
+#EXTINF:-1 tvg-id="oprah.winfrey.network.usa.eastern.us" tvg-name="US: OWN (East) US" tvg-logo="https://github.com/Apollo2000/TVLogos/raw/master/oprah.winfrey.network.usa.eastern.us.png" group-title="ערוצי ארצות הברית",US: OWN (East) US
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://total.live:80/EA/s5300669/561
+#EXTINF:-1 tvg-id="pervyy.ru" tvg-name="US: Syfy (East) US" tvg-logo="https://raw.githubusercontent.com/Apollo2000/TVLogos/master/syfy.eastern.us.png" group-title="ערוצי ארצות הברית",US: Syfy (East) US
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://total.live:80/EA/s5300669/304
+#EXTINF:-1 tvg-id="tlc.usa.eastern.us" tvg-name="US: TLC (East)" tvg-logo="http://logo.streamstv.me/picon/USTLCHD.png" group-title="ערוצי ארצות הברית",US: TLC (East)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://total.live:80/EA/s5300669/560
+#EXTINF:-1 tvg-id="trutv.usa.east.us" tvg-name="US: TruTV" tvg-logo="http://logo.premium-ott.com:8000/logo/trutv.png" group-title="ערוצי ארצות הברית",US: TruTV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://total.live:80/EA/s5300669/4418
+#EXTINF:-1 tvg-id="paramount.network.usa.eastern.us" tvg-name="US: Paramount Network (East) US" tvg-logo="https://raw.githubusercontent.com/Apollo2000/TVLogos/master/paramount.network.usa.eastern.us.png" group-title="ערוצי ארצות הברית",US: Paramount Network (East) US
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://total.live:80/EA/s5300669/289
+#EXTINF:-1 tvg-id="fyi.usa.eastern.us" tvg-name="US: FYI (East)" tvg-logo="https://raw.githubusercontent.com/Apollo2000/TVLogos/master/fyi.usa.eastern.us.png" group-title="ערוצי ארצות הברית",US: FYI (East)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://total.live:80/EA/s5300669/298
+#EXTINF:-1 tvg-id="fxx.usa.eastern.us" tvg-name="US: FXX (East)" tvg-logo="https://raw.githubusercontent.com/Apollo2000/TVLogos/master/fxx.usa.eastern.us.png" group-title="ערוצי ארצות הברית",US: FXX (East)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://total.live:80/EA/s5300669/297
+#EXTINF:-1 tvg-id="fx.networks.east.coast.us" tvg-name="US: FX Networks (East) US" tvg-logo="https://raw.githubusercontent.com/Apollo2000/TVLogos/master/fx.networks.east.coast.us.png" group-title="ערוצי ארצות הברית",US: FX Networks (East) US
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://total.live:80/EA/s5300669/287
+#EXTINF:-1 tvg-id="fx.movie.channel.us" tvg-name="US: FX Movie Channel" tvg-logo="https://raw.githubusercontent.com/Apollo2000/TVLogos/master/fx.movie.channel.us.png" group-title="ערוצי ארצות הברית",US: FX Movie Channel
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://total.live:80/EA/s5300669/286
+#EXTINF:-1 tvg-id="lifetime.network.us.eastern.us" tvg-name="US: Lifetime Network (East)" tvg-logo="https://raw.githubusercontent.com/Apollo2000/TVLogos/master/lifetime.network.us.eastern.us.png" group-title="ערוצי ארצות הברית",US: Lifetime Network (East)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://total.live:80/EA/s5300669/299
+#EXTINF:-1 tvg-id="lifetime.movies.east.us" tvg-name="US: LifeTime Movies" tvg-logo="http://logo.premium-ott.com:8000/logo/lifetimemovies.png" group-title="ערוצי ארצות הברית",US: LifeTime Movies
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://total.live:80/EA/s5300669/4415
+#EXTINF:-1 tvg-id="hallmark.channel.eastern.us" tvg-name="US: Hallmark Channel (East)" tvg-logo="http://logo.premium-ott.com:8000/logo/hallmarkchannel.png" group-title="ערוצי ארצות הברית",US: Hallmark Channel (East)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://total.live:80/EA/s5300669/4414
+#EXTINF:-1 tvg-id="hallmark.movies.mysteries.eastern.us" tvg-name="US: HALLMARK MOVIES & MYSTERIES" tvg-logo="http://logo.premium-ott.com:8000/logo/hallmarkmoviesandmysteries.png" group-title="ערוצי ארצות הברית",US: HALLMARK MOVIES & MYSTERIES
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://total.live:80/EA/s5300669/4929
+#EXTINF:-1 tvg-id="hallmark.drama.us" tvg-name="US: Hallmark Drama" tvg-logo="http://logo.premium-ott.com:8000/logo/hallmarkdrama.png" group-title="ערוצי ארצות הברית",US: Hallmark Drama
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://total.live:80/EA/s5300669/4930
+#EXTINF:-1 tvg-id="awe.tv.network.us" tvg-name="US: AWE" tvg-logo="http://epg.justco.cc/guide/logos/awe.png" group-title="ערוצי ארצות הברית",US: AWE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://total.live:80/EA/s5300669/4938
+#EXTINF:-1 tvg-id="bet.eastern.us" tvg-name="US: BET" tvg-logo="http://logo.premium-ott.com:8000/logo/bet.png" group-title="ערוצי ארצות הברית",US: BET
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://total.live:80/EA/s5300669/4941
+#EXTINF:-1 tvg-id="bet.her.us" tvg-name="US: BET HER" tvg-logo="http://logo.premium-ott.com:8000/logo/bether.png" group-title="ערוצי ארצות הברית",US: BET HER
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://total.live:80/EA/s5300669/5070
+#EXTINF:-1 tvg-id="food.network.usa.eastern.us" tvg-name="US: Food Network" tvg-logo="http://logo.premium-ott.com:8000/logo/foodnetwork.png" group-title="ערוצי ארצות הברית",US: Food Network
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://total.live:80/EA/s5300669/4921
+#EXTINF:-1 tvg-id="travel.us.east.us" tvg-name="US: Travel Channel" tvg-logo="https://github.com/Apollo2000/TVLogos/raw/master/travel.us.east.us.png" group-title="ערוצי ארצות הברית",US: Travel Channel
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://total.live:80/EA/s5300669/4922
+#EXTINF:-1 tvg-id="" tvg-name="US: VELOCITY" tvg-logo="http://epg.justco.cc/guide/logos/Discovery%20Velocity.png" group-title="ערוצי ארצות הברית",US: VELOCITY
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://total.live:80/EA/s5300669/5286
+#EXTINF:-1 tvg-id="we.us" tvg-name="US: WETV" tvg-logo="http://logo.premium-ott.com:8000/logo/wetv.png" group-title="ערוצי ארצות הברית",US: WETV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://total.live:80/EA/s5300669/4932
+#EXTINF:-1 tvg-id="ion.central.us" tvg-name="US: ION" tvg-logo="http://logo.premium-ott.com:8000/logo/iontv.png" group-title="ערוצי ארצות הברית",US: ION
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://total.live:80/EA/s5300669/4935
+#EXTINF:-1 tvg-id="tv.land.eastern.us" tvg-name="US: TV LAND" tvg-logo="http://logo.premium-ott.com:8000/logo/tvland.png" group-title="ערוצי ארצות הברית",US: TV LAND
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://total.live:80/EA/s5300669/5069
+#EXTINF:-1 tvg-id="turner.classic.movies.usa.us" tvg-name="US: TCM" tvg-logo="http://logo.premium-ott.com:8000/logo/tcm.png" group-title="ערוצי ארצות הברית",US: TCM
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://total.live:80/EA/s5300669/5285
+#EXTINF:-1 tvg-id="comet.tv.us" tvg-name="US: Comet" tvg-logo="https://github.com/Apollo2000/TVLogos/raw/master/comet.tv.us.png" group-title="ערוצי ארצות הברית",US: Comet
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://total.live:80/EA/s5300669/5085
+#EXTINF:-1 tvg-id="outdoor.channel.us.us" tvg-name="US: Outdoor" tvg-logo="http://logo.premium-ott.com:8000/logo/outdoor.png" group-title="ערוצי ארצות הברית",US: Outdoor
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://total.live:80/EA/s5300669/5086
+#EXTINF:-1 tvg-id="tv.one.us" tvg-name="US: TV One" tvg-logo="http://logo.premium-ott.com:8000/logo/tvone.png" group-title="ערוצי ארצות הברית",US: TV One
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://total.live:80/EA/s5300669/5088
+#EXTINF:-1 tvg-id="starz.edge.eastern.us" tvg-name="US: Starz Edge" tvg-logo="http://logo.premium-ott.com:8000/logo/starzedge.png" group-title="ערוצי ארצות הברית",US: Starz Edge
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://total.live:80/EA/s5300669/4919
+#EXTINF:-1 tvg-id="starz.comedy.eastern.us" tvg-name="US: STARZ COMEDY" tvg-logo="http://logo.premium-ott.com:8000/logo/starzcomedy.png" group-title="ערוצי ארצות הברית",US: STARZ COMEDY
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://total.live:80/EA/s5300669/4927
+#EXTINF:-1 tvg-id="starz.encore.eastern.us" tvg-name="US: STARZ ENCORE" tvg-logo="http://epg.justco.cc/guide/logos/STARZ%20ENCORE.png" group-title="ערוצי ארצות הברית",US: STARZ ENCORE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://total.live:80/EA/s5300669/4928
+#EXTINF:-1 tvg-id="starz.cinema.eastern.us" tvg-name="US: Starz Cinema" tvg-logo="http://logo.premium-ott.com:8000/logo/starzcinema.png" group-title="ערוצי ארצות הברית",US: Starz Cinema
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://total.live:80/EA/s5300669/5083
+#EXTINF:-1 tvg-id="hbo.west.us" tvg-name="US: HBO " tvg-logo="http://logo.premium-ott.com:8000/logo/hbo.png" group-title="ערוצי ארצות הברית",US: HBO 
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://total.live:80/EA/s5300669/5072
+#EXTINF:-1 tvg-id="hbo.family.eastern.us" tvg-name="US: HBO Family" tvg-logo="http://logo.premium-ott.com:8000/logo/hbofamily.png" group-title="ערוצי ארצות הברית",US: HBO Family
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://total.live:80/EA/s5300669/5075
+#EXTINF:-1 tvg-id="showtime.eastern.us" tvg-name="US: Showtime (East)" tvg-logo="http://logo.premium-ott.com:8000/logo/showtime.png" group-title="ערוצי ארצות הברית",US: Showtime (East)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://total.live:80/EA/s5300669/4416
+#EXTINF:-1 tvg-id="showtime.extreme.eastern.us" tvg-name="US: Showtime Extreme" tvg-logo="http://logo.premium-ott.com:8000/logo/showtimeextreme.png" group-title="ערוצי ארצות הברית",US: Showtime Extreme
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://total.live:80/EA/s5300669/5081
+#EXTINF:-1 tvg-id="showtime.showcase.eastern.us" tvg-name="US: Showtime Showcase" tvg-logo="http://logo.premium-ott.com:8000/logo/showtimeshowcase.png" group-title="ערוצי ארצות הברית",US: Showtime Showcase
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://total.live:80/EA/s5300669/5076
+#EXTINF:-1 tvg-id="showtime.next.eastern.us" tvg-name="US: Showtime Next" tvg-logo="http://epg.justco.cc/guide/logos/Showtime%20Next.png" group-title="ערוצי ארצות הברית",US: Showtime Next
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://total.live:80/EA/s5300669/5077
+#EXTINF:-1 tvg-id="showtime.family.zone.eastern.us" tvg-name="US: Showtime FamilyZone" tvg-logo="http://epg.justco.cc/guide/logos/Showtime%20Familyzone.png" group-title="ערוצי ארצות הברית",US: Showtime FamilyZone
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://total.live:80/EA/s5300669/5078
+#EXTINF:-1 tvg-id="showtime.women.eastern.us" tvg-name="US: Showtime Woman" tvg-logo="https://github.com/Apollo2000/TVLogos/raw/master/showtime.women.eastern.us.png" group-title="ערוצי ארצות הברית",US: Showtime Woman
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://total.live:80/EA/s5300669/5079
+#EXTINF:-1 tvg-id="showtime.beyond.eastern.us" tvg-name="US: Showtime Beyond" tvg-logo="http://epg.justco.cc/guide/logos/Showtime%20Beyond.png" group-title="ערוצי ארצות הברית",US: Showtime Beyond
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://total.live:80/EA/s5300669/5080
+#EXTINF:-1 tvg-id="national.geographic.us.eastern.us" tvg-name="US: Nat Geo (East) US" tvg-logo="https://raw.githubusercontent.com/Apollo2000/TVLogos/master/national.geographic.us.eastern.us.png" group-title="ערוצי ארצות הברית",US: Nat Geo (East) US
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://total.live:80/EA/s5300669/295
+#EXTINF:-1 tvg-id="national.geographic.wild.us" tvg-name="US: Nat Geo Wild US" tvg-logo="https://raw.githubusercontent.com/Apollo2000/TVLogos/master/national.geographic.wild.us.png" group-title="ערוצי ארצות הברית",US: Nat Geo Wild US
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://total.live:80/EA/s5300669/296
+#EXTINF:-1 tvg-id="hgtv.usa.eastern.us" tvg-name="US: HGTV (East) US" tvg-logo="https://raw.githubusercontent.com/Apollo2000/TVLogos/master/hgtv.usa.eastern.us.png" group-title="ערוצי ארצות הברית",US: HGTV (East) US
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://total.live:80/EA/s5300669/288
+#EXTINF:-1 tvg-id="history.channel.us.eastern.us" tvg-name="US: History Channel US" tvg-logo="https://raw.githubusercontent.com/Apollo2000/TVLogos/master/history.channel.us.eastern.us.png" group-title="ערוצי ארצות הברית",US: History Channel US
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://total.live:80/EA/s5300669/294
+#EXTINF:-1 tvg-id="do.it.yourself.network.usa.east.us" tvg-name="US: Do It Yourself Network (East) US" tvg-logo="https://raw.githubusercontent.com/Apollo2000/TVLogos/master/do.it.yourself.network.usa.east.us.png" group-title="ערוצי ארצות הברית",US: Do It Yourself Network (East) US
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://total.live:80/EA/s5300669/293
+#EXTINF:-1 tvg-id="discovery.channel.us.eastern.us" tvg-name="US: Discovery Channel (East) US" tvg-logo="https://raw.githubusercontent.com/Apollo2000/TVLogos/master/discovery.channel.us.eastern.us.png" group-title="ערוצי ארצות הברית",US: Discovery Channel (East) US
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://total.live:80/EA/s5300669/292
+#EXTINF:-1 tvg-id="science.us" tvg-name="US: Discovery Science" tvg-logo="http://logo.streamstv.me/picon/discoverysciencehd.png" group-title="ערוצי ארצות הברית",US: Discovery Science
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://total.live:80/EA/s5300669/931
+#EXTINF:-1 tvg-id="investigation.discovery.usa.eastern.us" tvg-name="US: Investigation Discovery" tvg-logo="http://logo.streamstv.me/picon/discoveryid.png" group-title="ערוצי ארצות הברית",US: Investigation Discovery
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://total.live:80/EA/s5300669/926
+#EXTINF:-1 tvg-id="discovery.family.channel.us" tvg-name="US: Discovery Family" tvg-logo="http://logo.premium-ott.com:8000/logo/discoveryfamily.png" group-title="ערוצי ארצות הברית",US: Discovery Family
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://total.live:80/EA/s5300669/4924
+#EXTINF:-1 tvg-id="discovery.life.channel.us" tvg-name="US: Discovery Life" tvg-logo="http://logo.premium-ott.com:8000/logo/discoverylife.png" group-title="ערוצי ארצות הברית",US: Discovery Life
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://total.live:80/EA/s5300669/4942
+#EXTINF:-1 tvg-id="animal.planet.us.east.us" tvg-name="US: Animal Planet (East)" tvg-logo="http://logo.streamstv.me/picon/ANIMALPLANET.png" group-title="ערוצי ארצות הברית",US: Animal Planet (East)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://total.live:80/EA/s5300669/937
+#EXTINF:-1 tvg-id="Fox News" tvg-name="US: FOX News" tvg-logo="https://raw.githubusercontent.com/Apollo2000/TVLogos/master/fox.news.us.png" group-title="ערוצי ארצות הברית",US: FOX News
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://total.live:80/EA/s5300669/282
+#EXTINF:-1 tvg-id="fox.business.us" tvg-name="US: FOX Business Network" tvg-logo="http://logo.streamstv.me/picon/FoxBusinessHD.png" group-title="ערוצי ארצות הברית",US: FOX Business Network
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://total.live:80/EA/s5300669/928
+#EXTINF:-1 tvg-id="msnbc.usa.us" tvg-name="US: MSNBC US" tvg-logo="https://raw.githubusercontent.com/Apollo2000/TVLogos/master/msnbc.usa.us.png" group-title="ערוצי ארצות הברית",US: MSNBC US
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://total.live:80/EA/s5300669/303
+#EXTINF:-1 tvg-id="cnn.us" tvg-name="US: CNN" tvg-logo="https://raw.githubusercontent.com/Apollo2000/TVLogos/master/cnn.us.png" group-title="ערוצי ארצות הברית",US: CNN
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://total.live:80/EA/s5300669/281
+#EXTINF:-1 tvg-id="cnbc.usa.us" tvg-name="US: CNBC US" tvg-logo="https://raw.githubusercontent.com/Apollo2000/TVLogos/master/cnbc.usa.us.png" group-title="ערוצי ארצות הברית",US: CNBC US
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://total.live:80/EA/s5300669/302
+#EXTINF:-1 tvg-id="cnbc.world.us" tvg-name="US: CNBC World" tvg-logo="http://logo.premium-ott.com:8000/logo/cnbcworld.png" group-title="ערוצי ארצות הברית",US: CNBC World
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://total.live:80/EA/s5300669/5084
+#EXTINF:-1 tvg-id="" tvg-name="US: Russia Today" tvg-logo="http://logo.premium-ott.com:8000/logo/russiatoday.png" group-title="ערוצי ארצות הברית",US: Russia Today
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://total.live:80/EA/s5300669/3487
+#EXTINF:-1 tvg-id="the.weather.channel.us" tvg-name="US: THE Weather Channel" tvg-logo="https://media.tv4.live/the.weather.channel.us.png" group-title="ערוצי ארצות הברית",US: THE Weather Channel
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://total.live:80/EA/s5300669/3927
+#EXTINF:-1 tvg-id="pbs.kids.us" tvg-name="US: PBS" tvg-logo="http://logo.premium-ott.com:8000/logo/pbs.png" group-title="ערוצי ארצות הברית",US: PBS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://total.live:80/EA/s5300669/4946
+#EXTINF:-1 tvg-id="cartoon.network.usa.eastern.us" tvg-name="US: Cartoon Network" tvg-logo="https://raw.githubusercontent.com/Apollo2000/TVLogos/master/cartoon.network.usa.eastern.us.png" group-title="ערוצי ארצות הברית",US: Cartoon Network
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://total.live:80/EA/s5300669/4926
+#EXTINF:-1 tvg-id="boomerang.us" tvg-name="US: Boomerang" tvg-logo="http://logo.streamstv.me/picon/USBoomerangHD.png" group-title="ערוצי ארצות הברית",US: Boomerang
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://total.live:80/EA/s5300669/934
+#EXTINF:-1 tvg-id="universal.kids.us" tvg-name="US: Universal kids" tvg-logo="http://logo.premium-ott.com:8000/logo/universalkids.png" group-title="ערוצי ארצות הברית",US: Universal kids
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://total.live:80/EA/s5300669/4931
+#EXTINF:-1 tvg-id="nickelodeon.usa.east.us" tvg-name="US: Nickelodeon (East) US" tvg-logo="http://logo.premium-ott.com:8000/logo/nickelodeon.png" group-title="ערוצי ארצות הברית",US: Nickelodeon (East) US
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://total.live:80/EA/s5300669/923
+#EXTINF:-1 tvg-id="nicktoons.east.us" tvg-name="US: Nicktoons" tvg-logo="http://logo.streamstv.me/picon/USNICKTOONSHD.png" group-title="ערוצי ארצות הברית",US: Nicktoons
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://total.live:80/EA/s5300669/922
+#EXTINF:-1 tvg-id="teennick.eastern.us" tvg-name="US: TEEN NICK" tvg-logo="http://logo.premium-ott.com:8000/logo/teennick.png" group-title="ערוצי ארצות הברית",US: TEEN NICK
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://total.live:80/EA/s5300669/4933
+#EXTINF:-1 tvg-id="nick.jr.us" tvg-name="US: Nick Jr" tvg-logo="http://logo.streamstv.me/picon/nickjr.png" group-title="ערוצי ארצות הברית",US: Nick Jr
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://total.live:80/EA/s5300669/924
+#EXTINF:-1 tvg-id="disney.eastern.us" tvg-name="US: Disney Channel (East)" tvg-logo="http://logo.streamstv.me/picon/disneychannelhd.png" group-title="ערוצי ארצות הברית",US: Disney Channel (East)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://total.live:80/EA/s5300669/930
+#EXTINF:-1 tvg-id="disney.junior.usa.east.us" tvg-name="US: Disney Jr (East)" tvg-logo="https://github.com/Apollo2000/TVLogos/raw/master/disney.jr.es.png" group-title="ערוצי ארצות הברית",US: Disney Jr (East)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://total.live:80/EA/s5300669/929
+#EXTINF:-1 tvg-id="disney.xd.usa.eastern.us" tvg-name="US: Disney XD" tvg-logo="https://github.com/Apollo2000/TVLogos/raw/master/disney.xd.uk.png" group-title="ערוצי ארצות הברית",US: Disney XD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://total.live:80/EA/s5300669/5071
+
+
+#EXTINF:-1 tvg-id="" tvg-name="Covid-19 Live (youtube Feed)" tvg-logo="" group-title="ערוצי הטבע והמדע",Covid-19 Live (youtube Feed)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://total.live:80/EA/s5300669/1228
+
+
+#EXTINF:-1 tvg-id="antena.1.ro" tvg-name="RO: Antena 1" tvg-logo="https://github.com/Apollo2000/TVLogos/raw/master/antena.1.ro.png" group-title="ערוצי רומניה",RO: Antena 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://total.live:80/EA/s5300669/103
+#EXTINF:-1 tvg-id="antena.3.es" tvg-name="RO: Antena 3" tvg-logo="https://github.com/Apollo2000/TVLogos/raw/master/antena.3.ro.png" group-title="ערוצי רומניה",RO: Antena 3
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://total.live:80/EA/s5300669/104
+#EXTINF:-1 tvg-id="Antena Stars-RO" tvg-name="RO: Antena Stars" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/2/2b/Antena_Stars_Logo.png/200px-Antena_Stars_Logo.png" group-title="ערוצי רומניה",RO: Antena Stars
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://total.live:80/EA/s5300669/105
+#EXTINF:-1 tvg-id="national.tv.ro" tvg-name="RO: National TV" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/ntv_ro.jpg" group-title="ערוצי רומניה",RO: National TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://total.live:80/EA/s5300669/1017
+#EXTINF:-1 tvg-id="prima.tv.ro" tvg-name="RO: Prima TV" tvg-logo="https://github.com/Apollo2000/TVLogos/raw/master/prima.tv.ro.png" group-title="ערוצי רומניה",RO: Prima TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://total.live:80/EA/s5300669/854
+#EXTINF:-1 tvg-id="digi.sport.1.ro" tvg-name="RO: DigiSport 1" tvg-logo="https://github.com/Apollo2000/TVLogos/raw/master/digi.sport.1.ro.png" group-title="ערוצי רומניה",RO: DigiSport 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://total.live:80/EA/s5300669/90
+#EXTINF:-1 tvg-id="digi.sport.2.ro" tvg-name="RO: DigiSport 2" tvg-logo="https://github.com/Apollo2000/TVLogos/raw/master/digi.sport.2.ro.png" group-title="ערוצי רומניה",RO: DigiSport 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://total.live:80/EA/s5300669/91
+#EXTINF:-1 tvg-id="digi.sport.3.ro" tvg-name="RO: DigiSport 3" tvg-logo="https://github.com/Apollo2000/TVLogos/raw/master/digi.sport.3.ro.png" group-title="ערוצי רומניה",RO: DigiSport 3
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://total.live:80/EA/s5300669/92
+#EXTINF:-1 tvg-id="digi.sport.4.ro" tvg-name="RO: DigiSport 4" tvg-logo="https://github.com/Apollo2000/TVLogos/raw/master/digi.sport.4.ro.png" group-title="ערוצי רומניה",RO: DigiSport 4
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://total.live:80/EA/s5300669/93
+#EXTINF:-1 tvg-id="digi.world.ro" tvg-name="RO:Digi World " tvg-logo="http://logo.streamstv.me/picon/RODigiWorld.png" group-title="ערוצי רומניה",RO:Digi World 
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://total.live:80/EA/s5300669/234
+#EXTINF:-1 tvg-id="digi.life.ro" tvg-name="RO:Digi Life " tvg-logo="http://logo.streamstv.me/picon/RODigiLife.png" group-title="ערוצי רומניה",RO:Digi Life 
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://total.live:80/EA/s5300669/233
+#EXTINF:-1 tvg-id="digi.animal.world.ro" tvg-name="RO:Digi Animal World " tvg-logo="https://github.com/Apollo2000/TVLogos/raw/master/digi.animal.world.ro.png" group-title="ערוצי רומניה",RO:Digi Animal World 
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://total.live:80/EA/s5300669/232
+#EXTINF:-1 tvg-id="digi.24.ro" tvg-name="RO:Digi 24" tvg-logo="https://github.com/Apollo2000/TVLogos/raw/master/digi.24.ro.png" group-title="ערוצי רומניה",RO:Digi 24
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://total.live:80/EA/s5300669/231
+#EXTINF:-1 tvg-id="BBC Earth" tvg-name="RO: BBC Earth" tvg-logo="https://github.com/Apollo2000/TVLogos/raw/master/bbc.earth.ro.png" group-title="ערוצי רומניה",RO: BBC Earth
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://total.live:80/EA/s5300669/859
+#EXTINF:-1 tvg-id="" tvg-name="RO: TV1000" tvg-logo="http://logo.premium-ott.com:8000/logo/tv1000.png" group-title="ערוצי רומניה",RO: TV1000
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://total.live:80/EA/s5300669/4420
+#EXTINF:-1 tvg-id="PROTV" tvg-name="RO: Pro Tv INTERNATIONAL" tvg-logo="https://github.com/Apollo2000/TVLogos/raw/master/pro.tv.ro.png" group-title="ערוצי רומניה",RO: Pro Tv INTERNATIONAL
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://total.live:80/EA/s5300669/750
+#EXTINF:-1 tvg-id="pro.tv.ro" tvg-name="RO:ProTV " tvg-logo="https://www.yes.co.il/contents/PublishingImages/logo_new/Premium/PRO.png" group-title="ערוצי רומניה",RO:ProTV 
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://total.live:80/EA/s5300669/244
+#EXTINF:-1 tvg-id="RTP 1 HD" tvg-name="RO:Pro 2 " tvg-logo="http://logo.streamstv.me/picon/ROPRO.2FHD.png" group-title="ערוצי רומניה",RO:Pro 2 
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://total.live:80/EA/s5300669/242
+#EXTINF:-1 tvg-id="pro.x.ro" tvg-name="RO:PRO-X " tvg-logo="https://github.com/Apollo2000/TVLogos/raw/master/pro.x.ro.png" group-title="ערוצי רומניה",RO:PRO-X 
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://total.live:80/EA/s5300669/243
+#EXTINF:-1 tvg-id="PRO GOLD-RO" tvg-name="RO:Pro Gold" tvg-logo="http://logo.streamstv.me/picon/ROPRO.GOLD.png" group-title="ערוצי רומניה",RO:Pro Gold
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://total.live:80/EA/s5300669/249
+#EXTINF:-1 tvg-id="pro.cinema.ro" tvg-name="RO: PRO Cinema" tvg-logo="https://github.com/Apollo2000/TVLogos/raw/master/pro.cinema.ro.png" group-title="ערוצי רומניה",RO: PRO Cinema
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://total.live:80/EA/s5300669/751
+#EXTINF:-1 tvg-id="Paramount Channel" tvg-name="RO: Paramount Channel" tvg-logo="https://github.com/Apollo2000/TVLogos/raw/master/paramount.channel.ro.png" group-title="ערוצי רומניה",RO: Paramount Channel
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://total.live:80/EA/s5300669/753
+#EXTINF:-1 tvg-id="TVRI" tvg-name="RO: TVR International" tvg-logo="https://github.com/Apollo2000/TVLogos/raw/master/tvr.international.ro.png" group-title="ערוצי רומניה",RO: TVR International
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://total.live:80/EA/s5300669/749
+#EXTINF:-1 tvg-id="tvr.1.ro" tvg-name="RO: TVR 1" tvg-logo="https://github.com/Apollo2000/TVLogos/raw/master/tvr.1.ro.png" group-title="ערוצי רומניה",RO: TVR 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://total.live:80/EA/s5300669/572
+#EXTINF:-1 tvg-id="tvr.2.ro" tvg-name="RO: TVR 2" tvg-logo="https://github.com/Apollo2000/TVLogos/raw/master/tvr.2.ro.png" group-title="ערוצי רומניה",RO: TVR 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://total.live:80/EA/s5300669/573
+#EXTINF:-1 tvg-id="tvr.3.ro" tvg-name="RO: TVR 3" tvg-logo="https://github.com/Apollo2000/TVLogos/raw/master/tvr.3.ro.png" group-title="ערוצי רומניה",RO: TVR 3
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://total.live:80/EA/s5300669/574
+#EXTINF:-1 tvg-id="Extreme Sports" tvg-name="RO:Extreme Sports Channel" tvg-logo="https://github.com/Apollo2000/TVLogos/raw/master/extreme.sports.channel.ro.png" group-title="ערוצי הספורט",RO:Extreme Sports Channel
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://total.live:80/EA/s5300669/254
+#EXTINF:-1 tvg-id="" tvg-name="RO: Crime+ Investigation" tvg-logo="http://logo.premium-ott.com:8000/logo/crimeplusinvestigation.png" group-title="ערוצי רומניה",RO: Crime+ Investigation
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://total.live:80/EA/s5300669/858
+#EXTINF:-1 tvg-id="ID Xtra" tvg-name="RO:Investigation Discovery " tvg-logo="https://github.com/Apollo2000/TVLogos/raw/master/id.investigation.discovery.ro.png" group-title="ערוצי בידור ופנאי",RO:Investigation Discovery 
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://total.live:80/EA/s5300669/241
+#EXTINF:-1 tvg-id="TLC" tvg-name="RO:TLC RO" tvg-logo="https://github.com/Apollo2000/TVLogos/raw/master/tlc.ro.png" group-title="ערוצי בידור ופנאי",RO:TLC RO
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://total.live:80/EA/s5300669/256
+#EXTINF:-1 tvg-id="AnimalPlanet" tvg-name="RO:Animal Planet" tvg-logo="https://github.com/Apollo2000/TVLogos/raw/master/animal.planet.ro.png" group-title="ערוצי הטבע והמדע",RO:Animal Planet
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://total.live:80/EA/s5300669/255
+#EXTINF:-1 tvg-id="Fine Living" tvg-name="RO:Fine Living" tvg-logo="https://github.com/Apollo2000/TVLogos/raw/master/fine.living.ro.png" group-title="ערוצי בידור ופנאי",RO:Fine Living
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://total.live:80/EA/s5300669/237
+#EXTINF:-1 tvg-id="national.geographic.ro" tvg-name="RO: NatGeo " tvg-logo="http://logo.streamstv.me/picon/nationalgeographic.png" group-title="ערוצי רומניה",RO: NatGeo 
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://total.live:80/EA/s5300669/552
+#EXTINF:-1 tvg-id="nat.geo.wild.ro" tvg-name="RO: NatGeo Wild" tvg-logo="https://github.com/Apollo2000/TVLogos/raw/master/nat.geo.wild.ro.png" group-title="ערוצי רומניה",RO: NatGeo Wild
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://total.live:80/EA/s5300669/553
+#EXTINF:-1 tvg-id="history.ro" tvg-name="RO: History Channel" tvg-logo="http://logo.streamstv.me/picon/ROHistoryChannel.png" group-title="ערוצי רומניה",RO: History Channel
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://total.live:80/EA/s5300669/550
+
+
+#EXTINF:-1 tvg-logo="https://www.pngkey.com/png/full/9-94517_luxury-fashion-report-patterson-dental.png" group-title="Fashion",[COLOR pink]Luxury TV[/COLOR]
+http://nano.teleservice.su:8080/hls/luxury.m3u8
+
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2209.png" group-title="Fashion",[COLOR pink]HD Fashion & Lifestyle UA[/COLOR]
+http://95.67.47.115/hls/hdfashion_ua_hi/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/fcnRf1f.png" group-title="Fashion",[COLOR pink]World Fashion Channel  HD[/COLOR]
+http://wfc.bonus-tv.ru:80/cdn/wfcrus/tracks-v1a1/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/fcnRf1f.png" group-title="Fashion",[COLOR pink]World Fashion Channel International HD[/COLOR]
+http://wfc.bonus-tv.ru:80/cdn/wfcint/tracks-v1a1/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/fcnRf1f.png" group-title="Fashion",[COLOR pink]FTV HD[/COLOR]
+https://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_midnite_k1y_27049_midnite_secr_108_hls.smil/chunklist_b4700000_t64MTA4MHA=.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/fcnRf1f.png" group-title="Fashion",[COLOR pink]Odessa Fashion TV[/COLOR]
+http://cdn10.live-tv.od.ua:8081/ofod/ofod720p/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/fcnRf1f.png" group-title="Fashion",[COLOR pink]Fashion TV[/COLOR]
+https://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_paris_pg_4dg_27027_paris_pg18_188_hls.smil/chunklist_b4700000_t64MTA4MHA=.m3u8 
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/fcnRf1f.png" group-title="Fashion",[COLOR pink]Fashion TV [/COLOR]
+https://a.jsrdn.com/broadcast/ftv2_2/-0800/c.m3u8 
+
+
+
+#EXTINF:-1 tvg-logo="http://www.vodkom.com:25461/images/Astra19/1_0_19_2462_440_1_C00000_0_0_0.png" group-title="Sport",[COLOR orange]BEIN SPORTS 1 HD[/COLOR]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://rocksat.ddns.net:25461/wuk6apgp/JdGGbsR61w/49229
+
+#EXTINF:-1 tvg-logo="http://www.vodkom.com:25461/images/Astra19/1_0_19_2012_430_1_C00000_0_0_0.png" group-title="Sport",[COLOR orange]BEIN SPORTS 2 HD[/COLOR]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://rocksat.ddns.net:25461/wuk6apgp/JdGGbsR61w/49230
+
+#EXTINF:-1 tvg-logo="http://www.vodkom.com:25461/images/Astra19/1_0_19_2013_430_1_C00000_0_0_0.png" group-title="Sport",[COLOR orange]BEIN SPORTS 3 HD[/COLOR]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://rocksat.ddns.net:25461/wuk6apgp/JdGGbsR61w/49231
+
+#EXTINF:-1 tvg-logo="http://www.vodkom.com:25461/images/Astra19/1_0_19_2461_440_1_C00000_0_0_0.png" group-title="Sport",[COLOR orange]EUROSPORT 1 HD[/COLOR]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://rocksat.ddns.net:25461/wuk6apgp/JdGGbsR61w/49232
+
+#EXTINF:-1 tvg-logo="http://www.vodkom.com:25461/images/Astra19/1_0_19_24BE_43C_1_C00000_0_0_0.png" group-title="Sport",[COLOR orange]EUROSPORT 2 HD[/COLOR]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://rocksat.ddns.net:25461/wuk6apgp/JdGGbsR61w/49233
+
+#EXTINF:-1 tvg-logo="http://www.vodkom.com:25461/images/Astra19/1_0_19_2264_438_1_C00000_0_0_0.png" group-title="Sport",[COLOR orange]CANAL  SPORT HD[/COLOR]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://rocksat.ddns.net:25461/wuk6apgp/JdGGbsR61w/49240
+
+#EXTINF:-1 tvg-logo="http://www.vodkom.com:25461/images/Astra19/1_0_19_1F4E_42E_1_C00000_0_0_0.png" group-title="Sport",[COLOR orange]OL TV HD[/COLOR]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://rocksat.ddns.net:25461/wuk6apgp/JdGGbsR61w/49241
+
+#EXTINF:-1 tvg-logo="http://www.vodkom.com:25461/images/Astra19/1_0_19_427C_446_1_C00000_0_0_0.png" group-title="Sport",[COLOR orange]AUTOMOTO HD[/COLOR]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://rocksat.ddns.net:25461/wuk6apgp/JdGGbsR61w/49242
+
+#EXTINF:-1 tvg-logo="http://www.vodkom.com:25461/images/Astra19/1_0_19_2332_442_1_C00000_0_0_0.png" group-title="Sport",[COLOR orange]INFO SPORT  HD[/COLOR]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://rocksat.ddns.net:25461/wuk6apgp/JdGGbsR61w/49243
+
+#EXTINF:-1 tvg-logo="http://www.vodkom.com:25461/images/Astra19/1_0_19_2208_44C_1_C00000_0_0_0.png" group-title="Sport",[COLOR orange]FOOT  24/24 HD[/COLOR]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://rocksat.ddns.net:25461/wuk6apgp/JdGGbsR61w/49247
+
+#EXTINF:-1 tvg-logo="http://www.vodkom.com:25461/images/Astra19/1_0_19_26AF_43E_1_C00000_0_0_0.png" group-title="Sport",[COLOR orange]GOLF   HD[/COLOR]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://rocksat.ddns.net:25461/wuk6apgp/JdGGbsR61w/49248
+
+#EXTINF:-1 tvg-logo="https://www.sportdate.tv/files/ciarticle/res-545x345xccenters/Teleclub.jpg" group-title="Sport",[COLOR orange]TELECLUB ZOOM HD[/COLOR]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://rocksat.ddns.net:25461/wuk6apgp/JdGGbsR61w/49250
+
+#EXTINF:-1 tvg-logo="https://sport-onthebox.com/wp-content/uploads/2017/02/JPG4.jpg" group-title="Sport",[COLOR orange]MOTORSPORT TV HD[/COLOR]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://rocksat.ddns.net:25461/wuk6apgp/JdGGbsR61w/49251
+
+#EXTINF:-1 tvg-logo="http://www.vodkom.com:25461/images/Astra19/1_0_19_22D2_434_1_C00000_0_0_0.png" group-title="Sport",[COLOR orange]RMC SPORT 1 HD[/COLOR]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://rocksat.ddns.net:25461/wuk6apgp/JdGGbsR61w/49213
+
+#EXTINF:-1 tvg-logo="http://www.vodkom.com:25461/images/Astra19/1_0_19_22D2_434_1_C00000_0_0_0.png" group-title="Sport",[COLOR orange]RMC SPORT 3 HD[/COLOR]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://rocksat.ddns.net:25461/wuk6apgp/JdGGbsR61w/49215
+
+#EXTINF:-1 tvg-logo="http://www.vodkom.com:25461/images/Astra19/1_0_19_19C9_444_1_C00000_0_0_0.png" group-title="EU France HD",RMC SPORT 2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://rocksat.ddns.net:25461/wuk6apgp/JdGGbsR61w/49214
+
+#EXTINF:-1 tvg-logo="http://www.vodkom.com:25461/images/Astra19/1_0_19_22D2_434_1_C00000_0_0_0.png" group-title="Sport",[COLOR orange]RMC SPORT 4 HD[/COLOR]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://rocksat.ddns.net:25461/wuk6apgp/JdGGbsR61w/49216
+
+#EXTINF:-1 tvg-logo="http://www.vodkom.com:25461/images/Astra19/1_0_19_22D2_434_1_C00000_0_0_0.png" group-title="Sport",[COLOR orange]RMC SPORT 5 HD[/COLOR]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://rocksat.ddns.net:25461/wuk6apgp/JdGGbsR61w/49217
+
+#EXTINF:-1 tvg-logo="http://www.vodkom.com:25461/images/Astra19/1_0_19_22D2_434_1_C00000_0_0_0.png" group-title="Sport",[COLOR orange]RMC SPORT 6 HD[/COLOR]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://rocksat.ddns.net:25461/wuk6apgp/JdGGbsR61w/49218
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/IaRaabJ.jpg" group-title="Sport",[COLOR orange]Sharjah Sports[/COLOR]
+https://svs.itworkscdn.net/smc4sportslive/smc4.smil/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/o90fKsH.png" group-title="Sport",[COLOR orange]Al Kass Two[/COLOR]
+http://www.elahmad.com/tv/m3u8/alkass.m3u8?id=alkass2
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/o90fKsH.png" group-title="Sport",[COLOR orange]Al Kass Sports 4[/COLOR]
+http://www.elahmad.com/tv/m3u8/alkass.m3u8?id=alkass4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/G9BMhDS.png" group-title="Sport",[COLOR orange]Bahrain Sport 1[/COLOR]
+http://185.105.4.106:1935/live/Bahrain%20Sports/chunklist.m3u8?v=1558393494
+
+#EXTINF:-1tvg-logo="https://i.imgur.com/A9ZuAZb.jpg" group-title="Sport",[COLOR orange]Sportal HD[/COLOR]
+http://api.new.livestream.com/accounts/3888956/events/4187384/live.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/eytrf0Y.png" group-title="Sport",[COLOR orange]Dubai Racing[/COLOR]
+http://dmisvthvll.cdn.mangomolo.com/events/smil:events.smil/chunklist_b1600000.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/eytrf0Y.png" group-title="Sport",[COLOR orange]Dubai Racing[/COLOR]
+http://dmithrvll.cdn.mangomolo.com/dubairacing/smil:dubairacing.smil/chunklist_b1600000.m3u8?fluxustv.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/jt6g1Jt.png" group-title="Sport",[COLOR orange]Horizon Sports[/COLOR]
+https://a.jsrdn.com/broadcast/22705/+0000/hi/c.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/2PoLaXw.png" group-title="Sport",[COLOR orange]NEWTV Super sports HD[/COLOR]
+http://111.40.205.107/PLTV/88888888/224/3221225715/index.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/IpssJvp.png" group-title="Sport",[COLOR orange]Olympic Channel (UHD)[/COLOR]
+http://ott-live.olympicchannel.com/out/u/OC1_1.m3u8?fluxustv.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/NC3rEUq.png" group-title="Sport",[COLOR orange]Real Betis TV[/COLOR]
+https://cdnlive.shooowit.net/rbetislive/smil:television.smil/playlist.m3u8?fluxustv.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/1M4zMdC.png" group-title="Sport",[COLOR orange]Racing[/COLOR]
+https://racingvic-i.akamaized.net/hls/live/598695/racingvic/1500.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/c5s5l3n.png" group-title="Sport",[COLOR orange]RTV Sport [/COLOR]
+https://dlxommsyqo2g0.cloudfront.net/smrtv-ch02/_definst_/smil:ch-02.smil/playlist.m3u8?fluxustv.m3u8
+
+
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://tvespanalive.com/wp-content/uploads/2019/06/nr1-turk.png" group-title="WORLD Music",[COLOR gray]NR1 TURK HD[/COLOR]
+https://n10101m.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/u_stream_5c9e187779c76_1/playlist.m3u8 
+   
+#EXTINF:-1 tvg-logo="https://i.imgur.com/fcYTHFv.png"group-title="WORLD Music",[COLOR gray]NG יווני[/COLOR]
+http://live.streams.ovh:1935/NGradio/NGradio/playlist.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/jaNwymO.png"group-title="WORLD Music",[COLOR gray]Tile Mousiki יווני[/COLOR]
+http://wpso.com:1936/hls/music1.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/mW6c2QR.png" group-title="WORLD Music",[COLOR gray]Baraza יווני[/COLOR]
+https://eco.streams.ovh:443/BarazaTV/BarazaTV/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/mW6c2QR.png" group-title="WORLD Music",[COLOR gray]Baraza TV Greek Music Hits[/COLOR]
+https://eco.streams.ovh/BarazaTV/BarazarazaTV/BarazaTV/playlist.m3u8 
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/32zvLBP.png" group-title="WORLD Music",[COLOR gray]Cannali יווני[/COLOR]
+http://live.streams.ovh:1935/cannali/cannali/playlist.m3u8
+ 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/LgQBtTh.jpg" group-title="WORLD Music",[COLOR gray]Xalastra TV יווני[/COLOR]
+https://live.cast-control.eu:443/xalastratv/xalastratv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/RdebpO8.png"group-title="WORLD Music",[COLOR gray]Messinia Web יווני[/COLOR]
+rtmp://176.9.123.140:1935/messinia/messinia
+  
+#EXTINF:-1 tvg-logo="https://i.imgur.com/iKyvuv9.png"group-title="WORLD Music",[COLOR gray]KRAL TV ARABESK[/COLOR]
+http://mid5dg6m.rocketcdn.com/kraltv_720/chunklist.m3u8
+  
+#EXTINF:-1 tvg-logo="https://i.imgur.com/iKyvuv9.png"group-title="WORLD Music",[COLOR gray]KRAL TV[/COLOR]
+http://mid5dg6m.rocketcdn.com/kraltv_720/chunklist.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/iKyvuv9.png"group-title="WORLD Music",[COLOR gray]KRAL POP[/COLOR]
+http://bqgsd19q.rocketcdn.com/kralpop_720/chunklist.m3u8
+  
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Albanian" tvg-logo="https://i.imgur.com/Q1UOlkA.png" tvg-country="AL" tvg-url="group-title="WORLD Music",[COLOR gray]EUROAL[/COLOR]
+http://5.135.92.131:1935/live/euroAl/chunklist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/JWJ8nJB.jpg" tvg-country="INT" tvg-url="" group-title="Music",V2BEAT TV
+https://de1se01.v2beat.live/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://trace.tv/trace-mziki/wp-content/uploads/sites/21/2016/11/logo_mziki-1.png"group-title="LATIN Music",[COLOR gray]Trace Latina[/COLOR]
+https://d2ktlibtvvj8vp.cloudfront.net/trace_latina/live.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://2.bp.blogspot.com/-_A-jiGtuVp8/UW_Qs9-lOJI/AAAAAAAAAEg/NsmFv_C60B0/s1600/TOPMUSIC.gif" group-title="MUSICA",[COLOR gray]Music Top Argentina[/COLOR]
+http://live-edge01.telecentro.net.ar/live/smil:musictop.smil/playlist.m3u8?iptvgratis?chile.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9fR1Gfh.png"group-title="LATIN Music",[COLOR gray]Company TV [/COLOR]
+rtmp://wma10.fluidstream.net/CompanyTV/_definst_/mp4:livestream_720p
+
+#EXTINF:-1 tvg-logo="http://vipotv.com/wp-content/uploads/2019/06/Oxigeno-Music-TV.png"group-title="LATIN Music",[COLOR gray]Oxigeno Music TV[/COLOR]
+http://vcp1.myplaytv.com:1935/oxigenotv/oxigenotv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.vimeocdn.com/portrait/9173547_300x300"group-title="LATIN Music",[COLOR gray]La Mega Mundial [/COLOR] 
+http://68.235.35.243:1935/lamegamundial/lamegamundial2/playlist.m3u8 
+
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1709798340/AfroBeats3_400x400.png"group-title="LATIN Music",[COLOR gray]Afrobeats  [/COLOR]
+https://stream.ecable.tv/afrobeats/tracks-v1a1/mono.m3u8
+ 
+ #EXTINF:-1 tvg-logo="https://i.imgur.com/0zT5B0X.png"group-title="Music Rock",[COLOR gray]MM [/COLOR]                                                                                                                                                                                          
+http://pri.cdn.bg:2113/fls/mmtv.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/5/57/Rock_TV2.png/revision/latest?cb=20180923011618" group-title="Music Rock",[COLOR gray]MTS Rock Tv [/COLOR]  
+https://fms-https1.mediadirect.ro/live3/_definst_/rocktv.smil/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/868f9341-feec-42a9-acd9-fb28e85fef42/d1wdxua-77b2ef5b-4e60-440f-aa60-4971f7abe587.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzg2OGY5MzQxLWZlZWMtNDJhOS1hY2Q5LWZiMjhlODVmZWY0MlwvZDF3ZHh1YS03N2IyZWY1Yi00ZTYwLTQ0MGYtYWE2MC00OTcxZjdhYmU1ODcucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.b8DDbM0V2Nfi3oacaZZ15TSKEzsig_ohvjI8UEDOV-Q" group-title="Music Rock",[COLOR gray]MUZZIK ROCK HD[/COLOR]
+http://muzzik-live.morescreens.com/mts-1/playlist.m3u8  
+ 
+#EXTINF:-1 tvg-logo="https://a.thumbs.redditmedia.com/J4Kgq-7IUV0FJPl-aeK9u90eMw5LKmJvNKgbSWxh4f4.png" group-title="Music Rock",[COLOR gray]Metal Rock TV[/COLOR]
+http://v1.catcast.me/content/33816/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/lS4CAgN.png" group-title="Music Rock",[COLOR gray]U Rock TV HD[/COLOR]
+https://cdnlive.radiou.com/LS-ATL-43240-1/tracks-v1a1/index.m3u8
+  
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/ubEUBmB.png" group-title="Music Rock",[COLOR gray]Rock Radio 21 TV[/COLOR]
+http://api.new.livestream.com/accounts/22300508/events/6675945/live.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/mW6c2QR.png" group-title="WORLD Music",[COLOR gray]Baraza TV Classic Hits[/COLOR]
+https://eco.streams.ovh:443/BarazaClassic/BarazaClassic/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.vodkom.com:25461/images/Astra19/1_0_19_24C2_43C_1_C00000_0_0_0.png" group-title="EU France HD",C STAR HIT HD
+http://rocksat.ddns.net:25461/wuk6apgp/JdGGbsR61w/49365
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/d2wbX6e.jpg" group-title="Music" ,[COLOR gray]NRJ Hits TV  [/COLOR]
+http://5be019f0d8c6e.streamlock.net:1935/ngroup/NRJHitsTV_720p/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://seeklogo.com/images/1/1-music-channel-logo-FB300DCF9A-seeklogo.com.png" group-title="Music",[COLOR gray]1 Music Channel[/COLOR]    
+https://edge126.rcs-rds.ro/utvedge/musicchannelhq.stream/playlist.m3u8
+       
+#EXTINF:-1 tvg-logo="http://files.softicons.com/download/system-icons/hydropro-icons-by-mediadesign/png/512/HP-Winamp.png" group-title="Music",[COLOR gray]MUZZIK VISION HD[/COLOR]
+http://muzzik-live.morescreens.com/mts-a3/playlist.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://s3.spbtv.com/rosing-production/45713e222089a6ae8e62.png" group-title="RELIGIOSO" ,[COLOR gray] TV 12 [/COLOR]
+http://hls.goodgame.ru:80/hls/147714.m3u8
+  
+#EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2016/03/31/14/50/bolt-1292857_960_720.png" group-title="Music",[COLOR gray]MUZZIK CLUB HD[/COLOR]
+http://muzzik-live.morescreens.com/mts-3/playlist.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/ac0b1ba3-612c-4eaf-90af-49a6439c5e5a/d4lck4y-338eb48b-7745-4154-91ec-9233c15360c3.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcL2FjMGIxYmEzLTYxMmMtNGVhZi05MGFmLTQ5YTY0MzljNWU1YVwvZDRsY2s0eS0zMzhlYjQ4Yi03NzQ1LTQxNTQtOTFlYy05MjMzYzE1MzYwYzMucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.rKh0sX1kqxQQozP26qEy9Xy5iJpCbm4A3QKlmubAGeg" group-title="Music",[COLOR gray]MUZZIK HD[/COLOR]
+http://muzzik-live.morescreens.com/mts-6/playlist.m3u8
+  
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/d/d7/4fun_TV.png/revision/latest?cb=20101219232246" group-title="Music",4Fun TV
+https://stream.4fun.tv:8888/hls/4f_high/index.m3u8
+  
+#EXTINF:-1 tvg-logo="https://secure.webtoolhub.com/static/resources/icons/set54/443bb6d4.png" group-title="Music",[COLOR gray]MUZZIK MEDTERANEO HD[/COLOR]
+http://muzzik-live.morescreens.com/mts-a5/playlist.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://trace.tv/trace-mziki/wp-content/uploads/sites/21/2016/11/logo_mziki-1.png" group-title="Music",[COLOR gray]Trace Urban HD[/COLOR]
+https://d2ktlibtvvj8vp.cloudfront.net/trace_urbaninter/6/prog_index.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://is3-ssl.mzstatic.com/image/thumb/Purple118/v4/71/73/09/71730908-94ab-d2d3-1f79-807442e2d891/source/256x256bb.jpg" group-title="Music",[COLOR gray]Spirit TV[/COLOR]
+https://cdnlive.myspirit.tv/LS-ATL-43240-2/tracks-v1a1/mono.m3u8
+ 
+#EXTINF:-1 tvg-id="" tvg-name="tvg-logo="https://image.winudf.com/v2/image1/YXBwaW52ZW50b3IuYWlfZW1pc29yYXNwZXJ1LlJldHJvcGx1c1RWX2ljb25fMTU2MjQyNzEwNV8wMjA/icon.png?w=170&fakeurl=1" group-title="Music",[COLOR gray]Retro Plus TV HD[/COLOR]
+http://59f2354c05961.streamlock.net:1935/retroplustv/_definst_/retroplustv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Dzfjea6.png" group-title="Music",[COLOR gray]GO-RTV [/COLOR]
+http://593aed234297b.streamlock.net:1935/gotvsjoerd/gotvsjoerd/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://online-red.com/images/tv/one-hd.png" group-title="RUSSIAN  Music",[COLOR gray]One.by RU HD[/COLOR]
+http://rtmp.one.by:2300
+ 
+#EXTINF:-1 tvg-logo="https://static-cdn.jtvnw.net/jtv_user_pictures/c04fec1f-eaab-42b3-942e-ac98cbdcac02-profile_image-300x300.png",[COLOR gray][B] MUZ PALY [/B][/COLOR]
+http://hls.goodgame.ru:80/hls/154446.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://img10.lostpic.net/2018/07/24/b7b528d700e4481b3929edf06d21f0d1.png" group-title="RUSSIAN  Music",[COLOR gray]SONG TV FHD Russia[/COLOR]
+https://songtvru.ru/hd/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/QgXqVta.png" group-title="WORLD Music",[COLOR gray]POWER TURK TV HD[/COLOR]
+http://livetv.powerapp.com.tr/powerturktv/powerturkhd.smil/chunklist_b2650000_sltur.m3u8
+   
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/GG4vW63dgYE/maxresdefault_live.jpg" group-title="WORLD Music",[COLOR gray]SONGTV HD ארמניה[/COLOR]
+https://songtvam.ru/hd/playlist.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://www.parsatv.com/index_files/channels/mifa.png" group-title="RUSSIAN  Music",[COLOR gray]Mifa[/COLOR]
+http://d2e40kvaojifd6.cloudfront.net/stream/mifa/playlist.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://broadbandtvnews-broadbandtvnews.netdna-ssl.com/wp-content/uploads/2015/08/First-Music-Channel-Belarus.png" group-title="Music",[COLOR gray]One.by 4K [/COLOR]
+http://rtmp.one.by:1499
+ 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/MTV_Live_HD_2017_logo.svg/1200px-MTV_Live_HD_2017_logo.svg.png" group-title="Music Rock",[COLOR gray]MTV Live FHD UK [/COLOR]
+http://178.217.72.66/225.201.2.51/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://static10.tgstat.ru/channels/_0/55/558edb1701698693df92a90573ab7b21.jpg" group-title="Music",[COLOR gray]GEM 24B [/COLOR]
+https://d2e40kvaojifd6.cloudfront.net/stream/24b/chunklist_w1808578907.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.mycdn.me/i?r=AzGBqNaF5OQp2lMpnhRx4DEFMZP1u54iMcM822vRWjaH1900qmB9HfZbnL4NPI90UeU" group-title="Music",[COLOR gray]Ritsa TV HD[/COLOR]
+https://hls.goodgame.ru/hls/122431.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://samara11x11.ucoz.ru/music/One.BY.png " group-title="Music",[COLOR gray]One.by HD[/COLOR]
+http://rtmp.one.by:1300?Arlen
+ 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/aLEpfDP.png" group-title="Music",[COLOR gray]1HD Music TV[/COLOR]
+http://1hdru-hls-otcnet.cdnvideo.ru/onehdmusic/tracks-v1a1/index.m3u8
+   
+#EXTINF:-1 tvg-logo="https://i.imgur.com/uGhYkCv.png" group-title="Music",[COLOR gray]Kronehit HD[/COLOR]
+https://bitcdn-kronehit.bitmovin.com/v2/hls/chunklist_b3128000.m3u8
+   
+#EXTINF:-1 tvg-logo="https://i.imgur.com/v3nv2RT.png" group-title="Music",[COLOR gray]POWER TV HD[/COLOR]
+http://livetv.powerapp.com.tr/powertv/powerhd.smil/chunklist_b2650000_sltur.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/9TbpsS0.png" group-title="Music",[COLOR gray]CMC[/COLOR]
+https://cmctv.ios.internapcdn.net/cmctv_vitalstream_com/live_1/CMC-TV/master.m3u8?fluxustv.m3u8
+ 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/9TbpsS0.png" group-title="Music",[COLOR gray]CMC-USA [/COLOR]
+https://cmctv.ios.internapcdn.net/cmctv_vitalstream_com/live_1/CMCU-92/playlist.m3u8?fluxustv.m3  
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/O8ByUjT.png" group-title="Music",[COLOR gray]Freccia [/COLOR]
+http://rtl-radio-stream-thron.akamaized.net/live-video/video2/video2/chunklist_b2296000.m3u8
+
+
+
+#EXTINF:-1 tvg-logo="https://ewsat.com/img/HOME.png" group-title="Documentary",[COLOR green]HOME 4K[/COLOR]
+http://astra.realcrimea.net:8000/play/a0b4
+
+
+
+#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/a/AGF-l79MrcMepj4fnV0aaam0uq0P3zVDDfjqgirC9A=s900-c-k-c0xffffffff-no-rj-mo" group-title="Documentary",[COLOR green] NATIONAL GEOGRAPHIC WILD HD [/COLOR]
+http://astra.realcrimea.net:8000/play/a079
+ 
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/LmbOzsf.png" group-title="Documentary",[COLOR green] NAT GEO WILD HD [/COLOR]
+http://88.156.21.109:8001/1:0:1:1137:2af8:13e:820000:0:0:0:
+
+#EXTINF:-1 tvg-logo="https://www.cableman.ru/sites/default/files/viasat_nature_hd.png?1535550710" group-title="Documentary",[COLOR green]Viasat Nature[/COLOR]
+http://astra.realcrimea.net:8000/play/a075
+ 
+#EXTINF:1 tvg-logo="https://i.imgur.com/bUepAp5.png" group-title="Documentary",[COLOR green] National Geographic  [/COLOR]
+http://astra.realcrimea.net:8000/play/a07a
+ 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/f8Rz3vX.png" group-title="Documentary",[COLOR green]Viasat History HD[/COLOR]
+http://astra.realcrimea.net:8000/play/a074
+ 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/History_Logo.svg/1200px-History_Logo.svg.png" group-title="Documentary",[COLOR green] History DUAL AUDIO[/COLOR]
+http://188.35.9.11:21121/udp/128c
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/1200px-2018_Animal_Planet_logo.svg.png",[COLOR green]Animal Planet[/COLOR]
+http://astra.realcrimea.net:8000/play/a06m
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/Bi6VckC.png" group-title="Documentary",[COLOR green] Discovery 1080 [/COLOR]
+http://astra.realcrimea.net:8000/play/a06l
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8b/Discovery_science_new_logo_2017.png" group-title="Documentary",[COLOR green]Discovery Science HD[/COLOR]
+http://88.156.21.109:8001/1:0:1:290d:1edc:71:820000:0:0:0:
+
+
+
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/521.png" group-title="Documentary",[COLOR green]Viasat Explorer HD[/COLOR]
+http://astra.realcrimea.net:8000/play/a073
+ 
+
+#EXTINF:-1 tvg-logo="https://corporate.discovery.com/wp-content/uploads/2015/03/Investigation-Discovery.png" group-title="Documentary",[COLOR green]ID[/COLOR]
+http://88.156.21.109:8001/1:0:1:3a9b:514:13e:820000:0:0:0:
+
+
+#EXTINF:-1 tvg-logo="https://bbcearth.ca/wp-content/uploads/2018/10/BBC_EARTH_NP_WHT_L.png" group-title="Documentary",[COLOR green]BBC Earth[/COLOR]
+http://88.156.21.109:8001/1:0:1:dd6:2d50:13e:820000:0:0:0:
+ 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f9/Food_Network_New_Logo.png" group-title="Documentary",[COLOR green]FOOD[/COLOR]
+http://5.135.92.133:52841/out/u/502_1.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://web-cdn.blivenyc.com/generic/mee.logo-golden-trans.png" group-title="Documentary",[COLOR green]ערוץ הכלבים[/COLOR]
+https://video.blivenyc.com/broadcast/prod/2061/22/file-3192k.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/xLC8ulA.png" group-title="Documentary",[COLOR green]Gone Fishing[/COLOR]
+https://edge1.dashmedia.tv/onestudio/gonefishing/playlist.m3u8?fluxustv.m3u8
+   
+#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/-OJHV3wF6jqc/AAAAAAAAAAI/AAAAAAAAAAA/37X-qC0EUeM/nd/photo.jpg" group-title="Documentary",[COLOR green]נוף הדוב[/COLOR]
+https://strm.yandex.ru/kal/sibir/sibir0_169_1080p.json/index-v1-a1.m3u8
