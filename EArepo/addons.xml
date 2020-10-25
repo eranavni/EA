@@ -2,7 +2,7 @@
 <addons>
 <addon id="plugin.program.EA4all"                                                                                                                                    
 	   name=" [COLOR tan][B]Kodi EA[/B][/COLOR]"                                                 
-	   version="4.4.2"                                                                                                                                        
+	   version="4.4.3"                                                                                                                                        
 	   provider-name="">
   <requires>
     <import addon="xbmc.python" version="2.1.0"/>
