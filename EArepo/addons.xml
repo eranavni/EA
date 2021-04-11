@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<addons>
 <addon id="plugin.program.EA4all"                                                                                                                                    
-	   name=" [COLOR tan][B]Kodi EA[/B][/COLOR]"                                                 
-	   version="4.4.4"                                                                                                                                        
+	   name=" [COLOR yellow][B]Kodi EA4all[/B][/COLOR]"                                                 
+	   version="5.0.4"                                                                                                                                        
 	   provider-name="">
   <requires>
-    <import addon="xbmc.python" version="2.1.0"/>
-   <import addon="script.module.requests" optional="true" /> 
+    <!-- <import addon="xbmc.python" version="3.0.0"/> -->
+  <import addon="script.module.requests" optional="true" />
+ <!-- <import addon="script.module.future" version="0.0.1"/> -->
   </requires>
   <extension point="xbmc.python.pluginsource" library="default.py">
     <provides>executable</provides>
@@ -14,8 +14,12 @@
   <extension point="xbmc.service" library="startup.py" start="startup" />
   <extension point="xbmc.addon.metadata">
     <summary lang="en">Kodi EA</summary>
-    <description lang="en">Credit To Kodi EA</description>
+    <description lang="en">Credit To Kodi EA4all</description>
     <platform>all</platform>
+	<assets>
+            <icon>icon.png</icon>
+            <fanart>fanart.jpg</fanart>
+    </assets>
   </extension>
 </addon>
 	<addon id="plugin.program.mediasync"                                                                                                                                    
