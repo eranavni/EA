@@ -1,4 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<addons>
 <addon id="plugin.program.EA4all"                                                                                                                                    
 	   name=" [COLOR yellow][B]Kodi EA4all[/B][/COLOR]"                                                 
 	   version="5.0.4"                                                                                                                                        
@@ -22,4 +23,4 @@
     </assets>
   </extension>
 </addon>
-	
+</addons>	
